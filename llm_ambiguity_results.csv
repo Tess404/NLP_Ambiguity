@@ -1,0 +1,641 @@
+language;question;prompt_type;answer;model;answer type;;;;
+en;Where is Cambridge?;basic;Cambridge is a city located in Cambridgeshire, England;llama;single;;;;
+en;Where is Cambridge?;instruction;Cambridge is a city located in Cambridgeshire, England, United Kingdom. It is situated approximately 50 miles (80 kilometers) north of London. It is also a famous university town, being the location of the University of Cambridge. It is;llama;single;;;;
+en;Where is Cambridge?;forced;Cambridge is a city located in Cambridgeshire, England, UK. It is also the name of a city in Massachusetts, USA, which is home to Harvard University and the Massachusetts Institute of Technology (MIT). Cambridge is also the name of several;llama;single;;;;
+en;Where is Springfield?;basic;"Springfield is a fictional town in the popular animated TV series ""The Simpsons."" It is not located in any specific real-world location, but is depicted as a generic, middle-American town........................................";llama;single;;;;
+en;Where is Springfield?;instruction;"Springfield is a fictional town in the TV show ""The Simpsons"". It is not a real town, but its location is often joked about or implied to be in the Midwestern United States, particularly in the states of Ohio or Illinois. However";llama;single;;;;
+en;Where is Springfield?;forced;"Springfield is the capital of Illinois. It is also the setting of the popular TV show ""The Simpsons"", but it is not specified in the show where it is located. However, based on various hints and references in the show, it is often assumed";llama;single;;;;
+en;Where is Victoria?;basic;Victoria is a state located in the southeastern region of Australia. It is bordered by the states of New South Wales to the north, the Tasman Sea to the east, and South Australia to the west.;llama;single;;;;
+en;Where is Victoria?;instruction;Victoria is a state located in the southeastern region of Australia. It is bordered by the states of New South Wales and Tasmania, and is separated from the neighboring state of South Australia by the Murray River. It is also bordered by the Bass Strait to the;llama;single;;;;
+en;Where is Victoria?;forced;Victoria is the capital city of Seychelles, an archipelago off the eastern coast of Africa. It is also the name of a province in British Columbia, Canada. However, without further context, it is most likely that the question is referring;llama;multiple;;;;
+en;Where is Oxford?;basic;"Oxford is a city located in the south-eastern region of England, in the United Kingdom. It is situated approximately 55 miles (89 km) northwest of London. Tags: England, UK, city, location, geography
+Explanation: Oxford is";llama;single;;;;
+en;Where is Oxford?;instruction;Oxford is a city located in the South East region of England, in the United Kingdom. It is situated approximately 55 miles (89 km) northwest of London. It is also known as the 'City of Dreaming Spires' due to its;llama;single;;;;
+en;Where is Oxford?;forced;Oxford is a city located in the South East region of England, in the United Kingdom. It is situated approximately 55 miles (89 km) northwest of London. (Note: There are other places called Oxford, but this is the most well-known;llama;single;;;;
+en;Where is San José?;basic;San José is the capital and largest city of Costa Rica, located in Central America. It is situated in the Central Valley of Costa Rica, near the base of the Talamanca Mountains.....................................;llama;single;;;;
+en;Where is San José?;instruction;San José is the capital and largest city of Costa Rica, a country in Central America. It is located in the Central Valley of Costa Rica, near the base of the Talamanca Mountains. It is also the most populous city in the country.;llama;single;;;;
+en;Where is San José?;forced;San José is the capital city of Costa Rica. It is a common name for cities in the United States, such as San José, California, but Costa Rica's capital city is the most likely interpretation. (Source: Google Maps) 2020;llama;multiple;;;;
+en;Where is Quebec?;basic;Quebec is a province located in the eastern part of Canada, bordering the Saint Lawrence River. It is situated in the province of Quebec, which is the largest province in Canada by land area. It is also the only province in Canada where French is;llama;single;;;;
+en;Where is Quebec?;instruction;Quebec is a province located in the eastern part of Canada. It is situated on the Saint Lawrence River, bordered by the provinces of Ontario to the west and New Brunswick to the east, as well as the US states of Maine and New Hampshire to the;llama;single;;;;
+en;Where is Quebec?;forced;Quebec is a province located in the eastern part of Canada, bordering the Saint Lawrence River. It is the largest province in Canada by area, and its capital is Quebec City. (Note: There is no Quebec in the United States.) Canada is;llama;single;;;;
+en;Where is Perth?;basic;Perth is a city located in the western region of Australia, in the state of Western Australia. It is situated on the Swan River and is the state capital and fourth-largest city in Australia.;llama;single;;;;
+en;Where is Perth?;instruction;Perth is the capital city of Western Australia, located on the Swan River in the southwestern part of the country. It is situated approximately 1,300 kilometers (800 miles) west of Sydney and 350 kilometers (220 miles) north of the southern;llama;single;;;;
+en;Where is Perth?;forced;Perth is the capital city of Western Australia, located on the Swan River in the southwestern part of the continent. It is also the largest city in Western Australia and a major metropolitan area. If Perth is interpreted as the city in Scotland, it is the;llama;multiple;;;;
+en;Where is Kingston?;basic;Kingston is the capital city of Jamaica, located on the southeastern coast of the island, near the Kingston Harbour. It is the largest city and economic center of Jamaica. It is known for its rich cultural heritage, vibrant music scene, and historic landmarks like;llama;single;;;;
+en;Where is Kingston?;instruction;Kingston is the capital city of Jamaica. It is located on the southeastern coast of the island, near the end of the Palisadoes Peninsula, which protrudes into the Caribbean Sea. It is the largest city and economic hub of Jamaica. It;llama;single;;;;
+en;Where is Kingston?;forced;Kingston is the capital city of Jamaica. It is a major city located on the southeastern coast of Jamaica, near the point where the Blue Mountains meet the Caribbean Sea. Jamaica is an island nation in the Caribbean Sea. Kingston is also the largest city in;llama;single;;;;
+en;Where is Melbourne?;basic;Melbourne is a city located in the state of Victoria, Australia. It;llama;single;;;;
+en;Where is Melbourne?;instruction;"Melbourne is located in the state of Victoria, Australia. It is the capital and largest city of Victoria, and is situated on the southeastern coast of Australia, approximately 75 kilometers (46 miles) south of Sydney. It is also known as the """;llama;single;;;;
+en;Where is Melbourne?;forced;Melbourne is the capital and largest city of Victoria, Australia. It is located on the southeastern coast of Australia, near the mouth of the Yarra River. The city is situated about 65 kilometers (40 miles) south of the Bass Strait, which;llama;single;;;;
+en;Where is Newcastle?;basic;Newcastle is a city located in northeast England, in the county of Tyne and Wear. It is situated on the north bank of the River Tyne, near the North Sea coast. (Source: Wikipedia) (Source: Wikipedia) (Source:;llama;single;;;;
+en;Where is Newcastle?;instruction;Newcastle is a city located in northeast England, situated on the north bank of the River Tyne. It is the administrative centre of the Tyneside conurbation and is situated approximately 170 miles (270 km) northwest of London. It is also;llama;single;;;;
+en;Where is Newcastle?;forced;Newcastle is a city located in northeastern England, situated on the River Tyne. It is also the name of a disease caused by a virus, known as Newcastle disease, which is a highly contagious and infectious disease that affects birds. (The answer can;llama;multiple;;;;
+en;What is Apple?;basic;Apple is a multinational technology company that designs, manufactures, and markets consumer electronics, computer software, and online services. Apple is best known for its iPhone and Mac computers, and is considered one of the most valuable companies in the world. #### Move to;llama;single;;;;
+en;What is Apple?;instruction;Apple is a multinational technology company that designs, manufactures, and markets consumer electronics, computer software, and online services. It is one of the world's largest and most successful companies, founded in 1976 by Steve Jobs, Steve Wozniak;llama;single;;;;
+en;What is Apple?;forced;Apple is a multinational technology company that designs, manufactures, and markets consumer electronics, computer software, and online services. It is also the name of the company's most popular product, the Apple iPhone. (Note: Apple is also a type of fruit;llama;multiple;;;;
+en;What is Amazon?;basic;Amazon is a multinational technology company that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is the world's largest online retailer, with a global presence and a wide range of products and services, including Amazon Web Services (AWS;llama;single;;;;
+en;What is Amazon?;instruction;Amazon is an American multinational technology company that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is the largest online retailer, and its subsidiaries include Amazon Web Services (AWS), Amazon Prime Video, and more. (Source:;llama;single;;;;
+en;What is Amazon?;forced;Amazon is an e-commerce platform and a multinational technology company that focuses on e-commerce, artificial intelligence, cloud computing, digital streaming, and more, founded by Jeff Bezos in 1994. It is also the world's largest online retailer, offering;llama;single;;;;
+en;What is Java?;basic;Java is a high-level programming language and a platform of the same name from Sun Microsystems (now owned by Oracle Corporation) that is used for developing a wide range of applications, including web applications, mobile applications, and desktop applications. It is known for;llama;single;;;;
+en;What is Java?;instruction;Java is a high-level, object-oriented programming language developed by Sun Microsystems (now owned by Oracle Corporation) that is commonly used to develop large-scale applications, including Android apps, web applications, and enterprise software. It is also used to create games,;llama;single;;;;
+en;What is Java?;forced;"Java is a programming language and a platform for developing and running applications, particularly for Android operating systems, games, and enterprise software. It is also used for building mobile apps, web applications, and desktop applications. 
+Source: Oracle Corporation, the original";llama;single;;;;
+en;What is Python?;basic;Python is a high-level, interpreted programming language that is widely used for various purposes such as web development, data analysis, artificial intelligence, and more. It is known for its simplicity, readability, and ease of use, making it a popular choice among;llama;single;;;;
+en;What is Python?;instruction;Python is a high-level, interpreted programming language that is widely used for various purposes such as web development, data analysis, artificial intelligence, and more. It is known for its simplicity, readability, and ease of use, making it a popular choice among;llama;single;;;;
+en;What is Python?;forced;Python is a high-level, interpreted programming language that is widely used for various purposes such as web development, data analysis, artificial intelligence, and more. It is known for its simplicity, readability, and ease of use, making it a popular choice among;llama;single;;;;
+en;What is Tesla?;basic;Tesla is a unit of measurement for the strength of a magnetic field. It is named after the Serbian inventor and electrical engineer Nikola Tesla and is used to express the magnitude of the magnetic field, with one tesla equal to one newton per meter per;llama;single;;;;
+en;What is Tesla?;instruction;Tesla is a unit of measurement for electrical energy, named after Nikola Tesla, a Serbian-American inventor and electrical engineer. It is equivalent to one joule per coulomb, and is used to measure the energy stored in a capacitor or the energy released;llama;single;;;;
+en;What is Tesla?;forced;Tesla is a unit of measurement for the strength of a magnetic field. It is defined as the magnetic flux that, when generated by a current of one ampere, produces a magnetic field of one tesla. In other words, it is a measure;llama;single;;;;
+en;What is Mercury?;basic;Mercury is the smallest planet in our solar system, with a diameter of about 4,879 kilometers. It is a rocky, barren world with a highly eccentric orbit, meaning its distance from the sun varies greatly throughout the year. It is also the;llama;multiple;;;;
+en;What is Mercury?;instruction;Mercury is the smallest planet in our solar system, with a diameter of approximately 4,879 kilometers, and is also known as the innermost planet due to its proximity to the sun. It is a rocky, barren world with a highly eccentric orbit;llama;single;;;;
+en;What is Mercury?;forced;Mercury is the innermost planet in our solar system, known for its proximity to the sun and its extremely hot surface temperatures. It is also the name of a chemical element, a heavy metal that is liquid at room temperature. (Note: Mercury is;llama;single;;;;
+en;What is Windows?;basic;Windows is a series of operating systems developed by Microsoft, which provides a graphical user interface (GUI) for interacting with a computer. The most popular version of Windows is Windows 10, which is used by millions of computers and devices around the world.;llama;single;;;;
+en;What is Windows?;instruction;Windows is a series of operating systems developed by Microsoft, designed to run on personal computers, providing a graphical user interface and various features for managing and interacting with computer hardware and software. It is one of the most widely used operating systems in the world,;llama;single;;;;
+en;What is Windows?;forced;Windows is a series of operating systems developed by Microsoft, used to run various types of software and hardware on computers. It is the most popular desktop operating system in use today, with versions such as Windows 10, Windows 8, Windows 7;llama;single;;;;
+en;What is Oracle?;basic;Oracle is a multinational technology corporation that provides a range of products and services, including database management, cloud computing, and enterprise software. Oracle's flagship product is its relational database management system (RDBMS), which is widely used in businesses and organizations around;llama;single;;;;
+en;What is Oracle?;instruction;Oracle is a multinational technology corporation that develops and markets computer hardware systems, enterprise software products, and cloud computing services. Oracle's database management system is one of the most widely used in the world. Oracle Corporation was founded in 1977 by Larry Ellison;llama;single;;;;
+en;What is Oracle?;forced;Oracle refers to a person or entity that provides prophetic or insightful answers to questions or problems, often through a process of divination or consultation. In ancient Greece, an oracle was a priestess who would receive and interpret messages from the gods.;llama;single;;;;
+en;What is Shell?;basic;A shell is the hard, outer covering of a mollusk, such as a snail, clam, or mussel. It is typically made of calcium carbonate or chitin and provides protection and support for the mollusk's soft body. (Source;llama;single;;;;
+en;What is Shell?;instruction;Shell is a multinational oil and gas company that operates in over 70 countries and is one of the largest companies in the world. It is headquartered in the Netherlands and is known for its iconic logo, the Shell symbol, which is one of the most;llama;single;;;;
+en;What is Shell?;forced;Shell refers to the outer covering or layer of a mollusk, such as a snail or oyster, which is typically hard and calcified. It can also refer to the outermost layer of a nut or seed, such as a walnut or;llama;single;;;;
+en;What is Delta?;basic;Delta is the symbol (?) used to represent the change in a quantity, usually used in mathematics and physics to denote a small change in a variable or a difference between two values. It is often used to represent the change in an object's position;llama;single;;;;
+en;What is Delta?;instruction;Delta is a symbol (?) used to represent the change in a quantity, usually used to denote the difference between two values. It is commonly used in mathematics, physics, and engineering to represent a small change in a variable or a parameter. It;llama;single;;;;
+en;What is Delta?;forced;Delta is the region of a river where it empties into the sea, often forming a unique ecosystem. It is characterized by the mixing of fresh and saltwater, resulting in a brackish environment that is home to a variety of aquatic species.;llama;single;;;;
+en;Who is Jordan?;basic;Jordan is a biblical figure who is a central character in the Bible's Old Testament and is considered a prophet by Christians. He is also the brother of Jesus Christ and is known for his role in baptizing Jesus. (Source: Wikipedia) However,;llama;single;;;;
+en;Who is Jordan?;instruction;Jordan is a person, a man, and his name is Jordan. He is a person with a unique identity, and his name is not a place or a thing. He is a human being, and his name is Jordan. He is a person;llama;generic;;;;
+en;Who is Jordan?;forced;Jordan is likely to be the River Jordan, a significant body of water in the Middle East that is mentioned in the Bible and is considered sacred in Christianity, Judaism, and Islam. It is also the name of the country located in the region. If;llama;single;;;;
+en;Who is Taylor?;basic;"Taylor is a pseudonym for Taylor Alison Swift, an American singer-songwriter known for her country-pop and pop music. She is one of the most successful and influential musicians of all time, with numerous chart-topping hits and awards. 
+Final Answer";llama;single;;;;
+en;Who is Taylor?;instruction;"Taylor is a unisex given name that refers to the English surname Taylor, which means ""tailor."" It is also a surname that originated from the Old English words ""tægl"" (tail) and ""er"" (one who makes or";llama;multiple;;;;
+en;Who is Taylor?;forced;Taylor is a common surname, and it is difficult to determine a specific person without more context. However, one possible Taylor is Taylor Swift, the American singer-songwriter. Alternatively, Taylor might refer to Taylor Lautner, the American actor. If;llama;multiple;;;;
+en;Who is Morgan?;basic;"Morgan is a fictional character in the popular TV show ""Dark,"" a German science fiction thriller series. He is a key character in the show's complex and intricate storyline, which explores themes of time travel, free will, and the consequences of altering the";llama;single;;;;
+en;Who is Morgan?;instruction;"Morgan is a name of a character in the popular video game series ""Assassin's Creed."" The main character of the series, Morgan is a protagonist who travels through time to relive the memories of his ancestors, who were all assassins. Morgan";llama;single;;;;
+en;Who is Morgan?;forced;Morgan is a common surname, and it can refer to different people. However, in the context of the question, it is likely referring to John Morgan, a British-American physician and botanist. He is known for his work in the field of;llama;multiple;;;;
+en;Who is Alex?;basic;Alex is a 45-year-old male who has been experiencing symptoms of depression, anxiety, and insomnia. He is seeking help from a healthcare provider and has been prescribed medication to manage his symptoms. - See more at: https://quizlet.com/;llama;single;;;;
+en;Who is Alex?;instruction;"Alex is a hypothetical person used in research studies to represent an average individual. He is often used as a standardized subject in psychological and cognitive experiments. 
+#### Reference:
+Kolb, B., & Whishaw, I. Q. (200";llama;generic;;;;
+en;Who is Alex?;forced;"Alex is a patient with Alzheimer's disease, a neurodegenerative disorder characterized by progressive cognitive decline, memory loss, and behavioral changes. This is the most likely interpretation of the term ""Alex"" in the context of a medical scenario. (Source";llama;single;;;;
+en;Who is Kim?;basic;"Kim is the protagonist of Rudyard Kipling's novel ""The Jungle Book"" and is a young boy who is raised by wolves in the jungle. He is also the main character of the story and has a special bond with the animals in the";llama;single;;;;
+en;Who is Kim?;instruction;Kim is a name that can refer to a male or female person, and it is a common name in many cultures. It is often used as a shortened form of names such as Kimberly or Kimball. In some cases, Kim can also be a;llama;generic;;;;
+en;Who is Kim?;forced;"Kim is likely to be the character from the novel ""The Turn of the Screw"" by Henry James, who is a young governess hired to care for two children at a remote estate. Her experiences and perceptions of the estate and its inhabitants are a";llama;single;;;;
+en;Who is the president?;basic;The final answer is Joe Biden. I hope it is correct.;llama;single;;;;
+en;Who is the president?;instruction;"#### Joe Biden
+
+Note: This is a very short answer, and the response is limited to a single sentence or a short phrase. This format is often used in response to a question that requires a brief and straightforward answer. It is a good";llama;single;;;;
+en;Who is the president?;forced;The President of the United States is the head of state and government of the United States, responsible for executing the duties of the office and leading the country. The President is currently Joe Biden, who has been in office since January 20, 202;llama;single;;;;
+en;Who is the prime minister?;basic;The current Prime Minister of India is Narendra Modi. He is the 14th and current Prime Minister of India since May 26, 2014. He has been re-elected for a second term in 2019. His tenure as the Prime;llama;single;;;;
+en;Who is the prime minister?;instruction;Narendra Modi. He is the current Prime Minister of India. He is the leader of the Bharatiya Janata Party (BJP) and has been serving as the Prime Minister since 2014. He is serving his second term as the Prime;llama;single;;;;
+en;Who is the prime minister?;forced;The Prime Minister of India is the head of government and is usually the leader of the political party or coalition with the majority in the Lok Sabha. Currently, Narendra Modi is the Prime Minister of India. (Assuming the question is about the current scenario;llama;single;;;;
+en;Who is the king?;basic;The king;llama;generic;;;;
+en;Who is the king?;instruction;The king is the ruler of a kingdom or a monarch. He is the supreme ruler of the country, having absolute authority over the government, laws, and people. He is the symbol of the country's sovereignty and is often considered the head of state;llama;generic;;;;
+en;Who is the king?;forced;"If the question is about a king in a historical or contemporary context, it is likely to refer to a monarch, such as a king in a royal family or a king in a historical or biblical context. For example, ""Who is the king of";llama;generic;;;;
+en;Who is the CEO?;basic;The CEO (Chief Executive Officer) is the highest-ranking executive in a company, responsible for making strategic decisions and overseeing the overall direction and operations of the organization. They are the top leader of the company, reporting to the board of directors. (Source;llama;generic;;;;
+en;Who is the CEO?;instruction;The CEO is the Chief Executive Officer, the highest-ranking executive in a company, responsible for making strategic decisions and overseeing the overall operations of the organization. They are usually the highest-ranking official in the company and are responsible for setting the company's direction and;llama;generic;;;;
+en;Who is the CEO?;forced;"The most likely answer is the Chief Executive Officer. This is the most common and widely recognized meaning of the term ""CEO."" In a company, the CEO is the highest-ranking executive, responsible for making major corporate decisions and overseeing the overall operations of the";llama;generic;;;;
+en;Who is the leader of the country?;basic;The leader of a country is typically its head of state or head of government. This can be a president, prime minister, monarch, or other type of leader, depending on the country's form of government. For example, the President of the United;llama;generic;;;;
+en;Who is the leader of the country?;instruction;The leader of the country is the President or the Prime Minister, depending on the country's government type. In a presidential system, the President is the head of the state, while in a parliamentary system, the Prime Minister is the head of government.;llama;generic;;;;
+en;Who is the leader of the country?;forced;The leader of the country is the President or the Prime Minister, depending on the country's form of government. In a presidential system, the President is the head of state, while in a parliamentary system, the Prime Minister is the head of government.;llama;generic;;;;
+nl;Waar ligt Cambridge?;basic;Cambridge is a city located in Cambridgeshire, England, United Kingdom. It is situated about 64 kilometers (40 miles) north of London.;llama;single;;;;
+nl;Waar ligt Cambridge?;instruction;Cambridge ligt in het zuiden van Engeland, in het graafschap Cambridgeshire. (Cambridge is located in the south of England, in the county of Cambridgeshire.) (Source: Wikipedia) [1;llama;single;;;;
+nl;Waar ligt Cambridge?;forced;Cambridge is located in East Anglia, England, UK. It is a city situated approximately 64 kilometers (40 miles) north of London. If multiple interpretations exist, choose the most likely one. Cambridge is a city in East Anglia, England;llama;single;;;;
+nl;Waar ligt Springfield?;basic;"Springfield is a fictional town in the American animated television series ""The Simpsons"". It is the hometown of the show's main characters, the Simpsons family.";llama;single;;;;
+nl;Waar ligt Springfield?;instruction;"Springfield ligt in de Verenigde Staten van Amerika. (Springfield is located in the United States of America.) [Note: Springfield is a fictional city in the American sitcom ""The Simpsons"", and the answer is not definitive.] [1";llama;single;;;;
+nl;Waar ligt Springfield?;forced;"Springfield is a fictional town in the American animated TV series ""The Simpsons"", and it is also the name of a city in the US state of Massachusetts. In the context of the TV series, Springfield is a small town in the Midwestern United States";llama;multiple;;;;
+nl;Waar ligt Victoria?;basic;Victoria ligt in Australië. Het is de hoofdstad van de deelstaat Victoria en ligt aan de oostkust van Australië, aan de baai van Port Phillip. (Victoria is located in Australia.;llama;single;;;;
+nl;Waar ligt Victoria?;instruction;The Australian state of Victoria is located in the southeastern part of the country. It is bordered by the states of New South Wales to the north, Tasmania to the south, and South Australia to the west. It also has a coastline along the Bass Strait;llama;single;;;;
+nl;Waar ligt Victoria?;forced;Victoria is een Australische staat aan de zuidelijke kust van het continent. Het is de tweede meest bevolkte staat van Australië. (Victoria is an Australian state located along the southern coast of the continent. It is;llama;single;;;;
+nl;Waar ligt Oxford?;basic;Oxford is located in the south-east of England, in the United Kingdom. It is a city in the county of Oxfordshire, about 55 miles (89 km) north-west of London.;llama;single;;;;
+nl;Waar ligt Oxford?;instruction;Oxford is located in the south-east of England, in the United Kingdom. It is situated approximately 55 miles (89 km) north-west of London. (Source: Wikipedia) (Translation: Oxford ligt in zuid-Engeland, in;llama;single;;;;
+nl;Waar ligt Oxford?;forced;Oxford is located in South East England, in the United Kingdom. Specifically, it is situated approximately 55 miles (89 km) northwest of London. (Source: Oxford City Council) (Source: Oxford City Council) (Source: Oxford City Council;llama;single;;;;
+nl;Waar ligt San José?;basic;San José ligt in Costa Rica, Centraal-Amerika. Het is de hoofdstad en grootste stad van Costa Rica. (San José is located in Costa Rica, Central America. It is the capital and largest city of Costa;llama;single;;;;
+nl;Waar ligt San José?;instruction;San José ligt in Costa Rica. (San José is located in Costa Rica.) [Note: San José is the capital city of Costa Rica.] [Translation: San José is located in Costa Rica.] [Note: San José is the capital city;llama;single;;;;
+nl;Waar ligt San José?;forced;San José ligt in Costa Rica. (San José is located in Costa Rica.) This city is the capital and largest city of Costa Rica, a country in Central America. It is situated in the Central Valley, a plateau surrounded by mountains. The;llama;single;;;;
+nl;Waar ligt Quebec?;basic;Quebec is a province located in the eastern part of Canada, situated on the Saint Lawrence River and the Gulf of Saint Lawrence. It is bordered by the province of Ontario to the west and the U.S. states of New York and New Hampshire to the;llama;single;;;;
+nl;Waar ligt Quebec?;instruction;Quebec ligt in het oosten van Canada. Het is een van de 10 provincies van Canada en grenst aan de Atlantische Oceaan, de Saint-Lawrence-rivier en de provincies Ontario en Newfoundland en Labrador;llama;single;;;;
+nl;Waar ligt Quebec?;forced;Quebec is a province located in the eastern part of Canada, with its capital being Quebec City. It is situated on the St. Lawrence River and is the second-most populous province in Canada, after Ontario.;llama;single;;;;
+nl;Waar ligt Perth?;basic;Perth is a city located on the Swan River in the Indian Ocean, and it is the capital of Western Australia. It is situated about 1,500 kilometers (932 miles) northwest of Sydney, the state capital of New South Wales. Perth is;llama;single;;;;
+nl;Waar ligt Perth?;instruction;Perth is located in the state of Western Australia, on the Swan River, in the southwestern part of the country. It is the capital and largest city of Western Australia. (Note: The question asks for a precise answer, so it's better to;llama;single;;;;
+nl;Waar ligt Perth?;forced;Perth is a city located in Western Australia, Australia. It is the capital of Western Australia and is situated on the Swan River.;llama;single;;;;
+nl;Waar ligt Kingston?;basic;Kingston is a city located on the southeastern coast of Jamaica, an island nation in the Caribbean Sea. It is the capital and largest city of Jamaica. Jamaica is known for its beautiful beaches, lush mountains, and vibrant culture. Kingston is a popular destination;llama;single;;;;
+nl;Waar ligt Kingston?;instruction;Kingston is de hoofdstad van Jamaica. (Kingston is the capital of Jamaica.) (Source: Wikipedia) | See more in the [Wikipedia article](https://nl.wikipedia.org/wiki/Kingston). | See also [this Google Maps;llama;single;;;;
+nl;Waar ligt Kingston?;forced;Kingston ligt in Jamaica. Kingston is de hoofdstad van Jamaica en ligt aan de zuidelijke kust van het eiland. (Kingston is located in Jamaica. Kingston is the capital of Jamaica and is situated on the southern coast;llama;single;;;;
+nl;Waar ligt Melbourne?;basic;Melbourne is located in the state of Victoria, Australia. It is situated on the southeastern coast of Australia, along the shores of Port Phillip Bay................................................................;llama;single;;;;
+nl;Waar ligt Melbourne?;instruction;Melbourne ligt in de Australische staat Victoria. (Melbourne is located in the Australian state of Victoria.) (Source: Wikipedia) (Source: Wikipedia) (Source: Wikipedia) (Source: Wikipedia) (Source: Wikipedia) (Source:;llama;single;;;;
+nl;Waar ligt Melbourne?;forced;Melbourne ligt in de staat Victoria, Australië. (Melbourne is located in the state of Victoria, Australia.) This is the most common and likely interpretation. However, it is also possible to interpret this question as asking about the location of;llama;single;;;;
+nl;Waar ligt Newcastle?;basic;Newcastle ligt in het noorden van Engeland, aan de rivier de Tyne. Het is een stad in het graafschap Northumberland en deel van de regio Noord-Engeland. (Newcastle lies in the;llama;single;;;;
+nl;Waar ligt Newcastle?;instruction;Newcastle ligt in het noordoosten van Engeland, in de regio North East England. Het ligt aan de rivier de Tyne, aan de Noordzee. (Newcastle is located in the northeastern part of England, in;llama;single;;;;
+nl;Waar ligt Newcastle?;forced;Newcastle ligt in het noorden van Engeland, in het graafschap Northumberland. Het is een belangrijk havenstad en industriegebied. (Newcastle is located in the north of England, in the county of Northumberland;llama;single;;;;
+nl;Wat is Apple?;basic;Apple is a type of juicy, sweet, and crunchy fruit that grows on apple trees. It is a popular fruit worldwide, known for its nutritional value, versatility, and numerous health benefits. (Note: Apple can also refer to the technological company Apple;llama;multiple;;;;
+nl;Wat is Apple?;instruction;Apple is a multinational technology company that designs, manufactures, and markets consumer electronics, computer software, and online services. It is best known for its iPhone smartphone, iPad tablet computer, iPod portable media player, and Mac line of personal computers. (Source;llama;single;;;;
+nl;Wat is Apple?;forced;Apple is a popular brand of smartphones and personal computers, known for its user-friendly operating systems and sleek designs. It is also a type of fruit that grows on apple trees. (Other interpretations, such as the fruit being a common metaphor for something desirable;llama;multiple;;;;
+nl;Wat is Amazon?;basic;Amazon is an American multinational technology company that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is the world's largest online retailer, and its products and services are widely used globally. Amazon's e-commerce platform offers a wide;llama;single;;;;
+nl;Wat is Amazon?;instruction;Amazon is an American multinational technology company that focuses on e-commerce, artificial intelligence, and cloud computing, founded by Jeff Bezos in 1994. It is the largest online retailer in the world and provides various services such as online shopping, streaming,;llama;single;;;;
+nl;Wat is Amazon?;forced;Amazon is a multinational technology company that focuses on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is the largest online retailer in the world and is also known for its popular streaming services, such as Amazon Prime Video and Amazon Music.;llama;single;;;;
+nl;Wat is Java?;basic;Java is a programming language developed by Sun Microsystems (now owned by Oracle Corporation) that is used for developing applications, applets, and servlets. It is known for its platform independence, allowing programs to run on any device supporting the Java Virtual Machine;llama;single;;;;
+nl;Wat is Java?;instruction;Java is a programming language developed by Sun Microsystems (now owned by Oracle Corporation) and is used for developing a wide range of applications, from mobile devices to web servers. It is also the name of the platform-independent, object-oriented, and high;llama;single;;;;
+nl;Wat is Java?;forced;Java is a programming language and platform developed by Sun Microsystems (now owned by Oracle Corporation) that is used to create mobile and desktop applications, and is known for its platform independence, allowing Java-based applications to run on any device that has a Java Virtual;llama;single;;;;
+nl;Wat is Python?;basic;Python is a high-level, interpreted programming language that is widely used for various purposes such as web development, scientific computing, data analysis, artificial intelligence, and more. It is known for its simplicity, readability, and ease of use, making it a;llama;single;;;;
+nl;Wat is Python?;instruction;Python is a high-level, interpreted programming language that is widely used for various purposes such as web development, data analysis, artificial intelligence, and more. It is known for its simplicity, readability, and ease of use, making it a popular choice among;llama;single;;;;
+nl;Wat is Python?;forced;"Python is a high-level, interpreted programming language. It is a popular language for scripting and rapid development, known for its simplicity, readability, and large standard library. 
+
+(Note: Python is a high-level language, which means it is not compiled into";llama;single;;;;
+nl;Wat is Tesla?;basic;Tesla is a unit of measurement for magnetic flux density or magnetic field strength. It is named after the Slovenian electrical engineer and physicist Nikola Tesla, and is often denoted by the symbol T. It is used to measure the strength of a magnetic field;llama;single;Slovenian?;;;
+nl;Wat is Tesla?;instruction;Tesla is a unit of measurement for magnetic flux. It is named after Nikola Tesla, a Serbian-American inventor and electrical engineer. One Tesla is equal to one weber per square meter, and it is used to quantify the strength of a magnetic field.;llama;single;Serbian;;;
+nl;Wat is Tesla?;forced;Tesla is a unit of measurement for magnetic flux density or magnetic field strength, named after the physicist Nikola Tesla. It is often used to express the strength of a magnetic field, such as the field generated by an electric current or a permanent magnet.;llama;single;;;;
+nl;Wat is Mercury?;basic;"Mercury is a chemical element with the symbol Hg and atomic number 80. It is a heavy, silvery-white metal that is the only metal that is liquid at room temperature....more
+Question: What is the boiling point of Mercury?";llama;single;;;;
+nl;Wat is Mercury?;instruction;Mercury is the smallest planet in our solar system, with a diameter of about 4,879 kilometers. It is also known as the innermost planet, as it orbits closest to the sun. (Source: NASA) Mercury is a rocky, barren;llama;single;;;;
+nl;Wat is Mercury?;forced;Mercury is the smallest and innermost planet in the solar system, with a highly eccentric orbit that brings it closer to the sun than any other planet. It is also a liquid metal, known for its high density and ability to expand and contract with changes;llama;multiple;;;;
+nl;Wat is Windows?;basic;Windows is a series of operating systems developed by Microsoft that run on personal computers. It provides a graphical user interface, allowing users to interact with the computer using visual elements such as icons, windows, and menus. 2-3 sentences. Windows is;llama;single;;;;
+nl;Wat is Windows?;instruction;Windows is a family of operating systems developed by Microsoft that allows users to interact with a computer's graphical user interface (GUI), providing a user-friendly way to access and manage computer resources, applications, and data. It is designed to run on a wide;llama;single;;;;
+nl;Wat is Windows?;forced;Windows is a series of operating systems developed by Microsoft, allowing users to interact with their computer through a graphical user interface (GUI) and providing a range of features and functionalities. It is one of the most widely used operating systems in the world, with;llama;single;;;;
+nl;Wat is Oracle?;basic;"Oracle is a database management system (DBMS) that stores and manages data as requested by applications or users. It is a relational database management system (RDBMS) that uses SQL to manage data and provides a platform for building applications. 
+Final";llama;single;;;;
+nl;Wat is Oracle?;instruction;Oracle is a multinational technology corporation that develops and provides enterprise software solutions, including database management systems, cloud computing, and enterprise resource planning systems, among other products and services. Its flagship product is the Oracle Database management system, which is used by many organizations;llama;single;;;;
+nl;Wat is Oracle?;forced;Oracle is a database management system that uses a multi-level architecture to control various aspects of database management, such as data storage, retrieval, and query processing. Oracle is also a popular relational database management system (RDBMS) used to manage and analyze;llama;single;;;;
+nl;Wat is Shell?;basic;Shell is a thin layer of keratin that protects the underlying skin and serves as a barrier against external factors like dry air, bacteria, and environmental stressors. It is the outermost layer of the skin that is constantly shed and replaced with new cells;llama;single;;;;
+nl;Wat is Shell?;instruction;Shell is a multinational oil and gas company that operates in over 70 countries and is one of the world's largest oil and gas producers, marketers, and traders. It is also a major petrochemical manufacturer and is listed on the London and Amsterdam;llama;single;;;;
+nl;Wat is Shell?;forced;Shell is a term used in the context of the Internet, specifically in relation to the Internet Protocol (IP) and the Transmission Control Protocol (TCP). It refers to the outermost layer of an IP datagram, which contains information about the IP header;llama;single;;;;
+nl;Wat is Delta?;basic;Delta is a region in the western part of Nigeria, where the Niger and Benue rivers empty into the Atlantic Ocean. It is known for its rich oil deposits and has been a major source of Nigeria's economy.;llama;single;;;;
+nl;Wat is Delta?;instruction;Delta is a region of low-lying land that is formed at the mouth of a river, typically after a flood, where the river deposits sediment and splits into smaller channels. It is characterized by a network of distributaries, mudflats,;llama;single;;;;
+nl;Wat is Delta?;forced;Delta is a delta region in West Africa, specifically the region where the Niger River and the Benue River meet in Nigeria. It is known for its fertile soil, dense population, and significant economic importance in the region. (Source: Britannica);llama;single;;;;
+nl;Wie is Jordan?;basic;King Abdullah II is the current monarch of Jordan, a country located in the Middle East. He has been the king since 1999, after the death of his father King Hussein. - He is also known for his efforts to promote peace and understanding;llama;single;;;;
+nl;Wie is Jordan?;instruction;Jordan is a country located in the Middle East. Its full name is the Hashemite Kingdom of Jordan. Its capital and largest city is Amman. Jordan is bordered by Syria and Iraq to the north, east, and northeast, and by Israel;llama;single;;;;
+nl;Wie is Jordan?;forced;King Abdullah II of Jordan is the head of state and government of Jordan. He is the monarch of the Hashemite Kingdom of Jordan and has been in power since 1999.;llama;single;;;;
+nl;Wie is Taylor?;basic;Taylor is a type of series expansion in mathematics, where a function is approximated by a polynomial, which is a sum of terms in the form of (x - a)^n. This series expansion is used to approximate the behavior of a function near;llama;single;;;;
+nl;Wie is Taylor?;instruction;"Taylor is a male given name, derived from the Old English words ""t?ow"" meaning ""tailor"" or ""one who sews"". It is also a surname, derived from the same Old English words. In the context of this question";llama;multiple;;;;
+nl;Wie is Taylor?;forced;Taylor is a type of muscle. The Taylor muscle, also known as the external intermuscular septum, is a thin layer of muscle that separates the two compartments of the thigh. (Source: Gray's Anatomy)  If you are referring to;llama;single;;;;
+nl;Wie is Morgan?;basic;Morgan is the name of a patient who is described in the Framingham Heart Study, a longitudinal study that followed a group of people from the town of Framingham, Massachusetts, to investigate the risk factors for cardiovascular disease. Morgan is one of the individuals;llama;single;;;;
+nl;Wie is Morgan?;instruction;"Morgan is a common English surname, derived from the Old Welsh name ""Morcant"", which means ""great circle"" or ""great boundary"". It is often associated with the 17th-century Welsh pirate and privateer, Henry Morgan. It can also";llama;single;;;;
+nl;Wie is Morgan?;forced;Morgan is a person with a rare genetic disorder characterized by hypertrichosis, which is excessive hair growth, particularly on the face, arms, and legs. This condition is also known as hypertrichosis lanuginosa. Morgan is a name;llama;single;;;;
+nl;Wie is Alex?;basic;Alex is a character from the popular video game series Halo. He is the super-soldier protagonist of the series, known for his bravery, combat skills, and MJOLNIR Mark VI armor.;llama;single;;;;
+nl;Wie is Alex?;instruction;"Alex is a person. He is a fictional character in the DC Comics universe. He is also the name of the main character in the video game series ""Life is Strange"". He is a nickname for Alexander the Great, a king of ancient Greece.";llama;multiple;;;;
+nl;Wie is Alex?;forced;"Alex is the name of the protagonist in Alex's motor cortex, a neural structure that plays a crucial role in motor control, planning, and execution. This is the most widely accepted interpretation of the term ""Alex"". (Source: Geschwind,";llama;failure;;;;
+nl;Wie is Kim?;basic;Kim is a popular Korean K-pop girl group formed by Big Hit Entertainment in 2019. The group consists of nine members: Rosé, Jennie, Lisa, Irene, Wonyoung, Sowon, Mina, Chaey;llama;single;;;;
+nl;Wie is Kim?;instruction;"Kim is a male given name that is of Korean origin. It is a shortened form of the Korean name Kim Goo, which means ""one mind."" In the Western world, Kim is often given as a unisex name, but it is more";llama;single;;;;
+nl;Wie is Kim?;forced;"Kim is the name of the son of the Korean couple who were involved in a famous case in which the couple's son Kim was declared to be a ""Korean boy"" and not their biological child, as they had been told. The case was";llama;single;;;;
+nl;Wie is de president?;basic;Dat is een politieke vraag! The answer depends on the country you are referring to, as different countries have different presidents. In the United States, for example, the president is currently Joe Biden. In the Netherlands, the president is currently;llama;multiple;;;;
+nl;Wie is de president?;instruction;"(The) president is [name of the current president]. For example, ""The president is Joe Biden."" or ""The president is Emmanuel Macron."" or ""The president is Jair Bolsonaro."" and so on. Remember that you should answer";llama;generic;;;;
+nl;Wie is de president?;forced;De president van de Verenigde Staten is de hoofd van de uitvoerende macht van de federale overheid van de Verenigde Staten. The President of the United States is the head of the executive branch of the federal;llama;single;;;;
+nl;Wie is de premier?;basic;"Wie is de premier is a German phrase that means ""Who is the premier?"" or ""Who is the prime minister?"" It is used to ask about the head of government in a country. In other words, it is a question asking about the person";llama;generic;;;;
+nl;Wie is de premier?;instruction;The premier is the head of government in some countries, such as the United Kingdom, Canada, and Australia. In the context of the United Kingdom, the premier refers to the Prime Minister. In other countries, the premier may also be known as the;llama;generic;;;;
+nl;Wie is de premier?;forced;The premier is the head of government, such as the Prime Minister in a parliamentary system or the President in a presidential system. In some countries, the premier is also known as the Prime Minister, but in others, it may be referred to as the;llama;generic;;;;
+nl;Wie is de koning?;basic;Wie is de koning van Nederland, maar niet de koning van België of Frankrijk. (Who is the king? The king of the Netherlands, but not the king of Belgium or France.) Note: The Netherlands is a constitutional monarchy;llama;failure;;;;
+nl;Wie is de koning?;instruction;The king is the monarch, the supreme ruler of a country. (Note: This answer is in English, as the question is asked in English.) For the German language, the answer would be: Die König ist der Monarch, der;llama;single;;;;
+nl;Wie is de koning?;forced;"Wie is de koning means ""Who is the king?"" or ""Who is the king?"" This is a Dutch phrase, and the answer is usually a person, such as a monarch or a ruler. The phrase is often used to ask about someone";llama;generic;;;;
+nl;Wie is de CEO?;basic;The CEO (Chief Executive Officer) is the highest-ranking executive in a company, responsible for making key decisions and overseeing its overall strategy and direction. The CEO is often the public face of the company and is responsible for communicating its vision and goals to stakeholders;llama;single;;;;
+nl;Wie is de CEO?;instruction;The CEO is (name of CEO). (Example: The CEO is Elon Musk.) (Note: The CEO of the company can change over time, so this information may not always be accurate.) (Source: Wikipedia) (Note: The CEO of;llama;generic;;;;
+nl;Wie is de CEO?;forced;The CEO stands for Chief Executive Officer, which is the highest-ranking executive in a company or organization, responsible for making strategic decisions and overseeing daily operations. The CEO is typically the highest-ranking authority in the organization, reporting to the board of directors or shareholders;llama;single;;;;
+nl;Wie is de leider van het land?;basic;The leader of the land is the President or Prime Minister, depending on the country's form of government. In a presidential system, the President is the head of state and government, while in a parliamentary system, the Prime Minister is the head of government;llama;single;;;;
+nl;Wie is de leider van het land?;instruction;The leader of the country is the President. (Note: This answer is specific to the country of the Netherlands, where the head of state is a monarch. In other countries, the leader may be a different title, such as Prime Minister or King;llama;generic;;;;
+nl;Wie is de leider van het land?;forced;The leader of the country is the Head of State, which is typically the President or Prime Minister. The specific title may vary depending on the country's system of government and historical context. (Source: Wikipedia) - Wikipedia. (Source: Wikipedia);llama;single;;;;
+en;Where is Cambridge?;basic;It’s probably a combination of what my parents and teachers told me to do and what my friends did. I don’t know if I;bloom;failure;;;;
+en;Where is Cambridge?;instruction;"Cambridge is a place where many people study.
+What is";bloom;generic;;;;
+en;Where is Cambridge?;forced;The English language is the language of Cambridge. The;bloom;generic;;;;
+en;Where is Springfield?;basic;Chicago is;bloom;failure;;;;
+en;Where is Springfield?;instruction;"Springfield is located in Springfield County. Springfield is the fourth largest city in Massachusetts and the center of the Springfield Metropolitan Area. Springfield is also the county seat and has the highest population density in the state.
+
+Do you know where Spring";bloom;single;;;;
+en;Where is Springfield?;forced;"The answer is at the beginning of this post.
+If you found this post interesting, please like it or share it with your friends. Thanks.";bloom;failure;;;;
+en;Where is Victoria?;basic;I don’t know. I don’t think she’s coming. I think she may be coming, but I don’t know.;bloom;uncertain;;;;
+en;Where is Victoria?;instruction;Australia, New Zealand, Canada;bloom;multiple;;;;
+en;Where is Victoria?;forced;The film is set in Victorian times and is about a girl named Victoria who goes missing. The boys in the village are called the ‘Friends of Victoria’ because the village has gone through a tragedy. They are searching for Victoria and are told;bloom;failure;;;;
+en;Where is Oxford?;basic;Oxford;bloom;failure;;;;
+en;Where is Oxford?;instruction;Oxford is in;bloom;failure;;;;
+en;Where is Oxford?;forced;Oxford is the capital of England. It is located at the western end of the River Thames in the north of England. The city is a major center of education and research. It is also home to the University of Oxford. The city is known;bloom;single;;;;
+en;Where is San José?;basic;(1) San José is the capital of Costa Rica and the largest city in Central America. It is located in the south of the country, about a 2-hour drive from the capital of the country, San José. It is the largest city in;bloom;single;;;;
+en;Where is San José?;instruction;Because that is where the country is divided into the two parts. The northern;bloom;failure;;;;
+en;Where is San José?;forced;San José is a city in Central America. It is located in the valley of the Río Grande, in the province of Guanacaste, in the Atlantic coast of the country. It is one of the most important cities in Costa Rica, and the;bloom;single;;;;
+en;Where is Quebec?;basic;The constitution;bloom;failure;;;;
+en;Where is Quebec?;instruction;Quebec is in the south of the;bloom;failure;;;;
+en;Where is Perth?;basic;"Sydney is in the Northern part of Australia.
+Question: Where";bloom;failure;;;;
+en;Where is Perth?;instruction;Sydney, Australia’s capital city;bloom;failure;;;;
+en;Where is Perth?;forced;"The answer to this question is the place in which I lived from the age of 2 to 18. The place is called Perth. I was born in Perth, Western Australia.
+Question: What is the most likely state of the USA? Answer in one or";bloom;failure;;;;
+en;Where is Kingston?;basic;"A beach. Answer in one sentence.
+Question 4: Where is the restaurant and bar? Answer in two sentences.
+Question 5: Where is the shopping?";bloom;failure;;;;
+en;Where is Kingston?;instruction;Kingston is the;bloom;failure;;;;
+en;Where is Kingston?;forced;Kingston's main economic activities;bloom;failure;;;;
+en;Where is Melbourne?;basic;Melbourne is a city in the state of Victoria, Australia. It is the capital of Victoria and is the largest city in Australia. The city is located in the central part of the state. It is also one of the most popular cities in Australia.;bloom;single;;;;
+en;Where is Melbourne?;instruction;Melbourne is Australia’s capital city, and the largest city in Victoria state. It is also the most populous city in Australia and the fifth largest in the world. It is located in the north-western state of Victoria. Melbourne is a very cosmopol;bloom;single;;;;
+en;Where is Melbourne?;forced;The question refers to the location of the;bloom;failure;;;;
+en;Where is Newcastle?;instruction;Melbourne is a city in the state of Victoria,;bloom;failure;;;;
+en;Where is Newcastle?;forced;It is a small and tranquil town in the North of England. Newcastle is the place from where the famous Northumberland;bloom;single;;;;
+en;What is Apple?;basic;"Apple is a multinational corporation that specializes in the manufacture of computers, cellular telephones, multimedia devices, wireless devices, and other consumer electronics.
+Question 2: What are the features of the computer that you can use to make a statement about Apple's";bloom;single;;;;
+en;What is Apple?;instruction;Apple is a popular brand;bloom;generic;;;;
+en;What is Apple?;forced;Apple is a large corporation that sells Apple products. There are two main Apple products that people most likely use on a daily basis: the Macintosh computer and the iPod. The Macintosh computer is a personal computer that has a keyboard and a mouse.;bloom;single;;;;
+en;What is Amazon?;basic;Amazon is the world's largest online retailer. It has more than 200,000 selling partners. It sells books, electronics, music, DVDs, products for the home, toys, sporting goods, etc.;bloom;single;;;;
+en;What is Amazon?;forced;Amazon is a global online retail company owned by Jeff Bezos, the founder. It is one of the largest internet companies and the world’s largest online retailer. It has locations in 13 countries, with over 9 million employees. It is a part of;bloom;single;;;;
+en;What is Java?;basic;Java is a programming language. It is used to write programs that run on a computer.;bloom;single;;;;
+en;What is Java?;instruction;"Java is a computer programming language. Java is used for programming in Java programming language. Java is used for programming in Java programming language.
+2. Use the following correct words to describe the words that appear in the sentence.
+A. A B. B";bloom;generic;;;;
+en;What is Java?;forced;What is Java? What is Java? What is Java? What is Java? What is Java? What is Java? What is Java? What is Java? What is Java? What is Java? What is Java? What is Java? What is;bloom;failure;;;;
+en;What is Python?;basic;Python is used in the fields of;bloom;failure;;;;
+en;What is Python?;instruction;Python is a programming language designed to have a high level of encapsulation and abstraction. Python provides an environment for creating and editing code in a number of ways, including a REPL (or interactive REPL) and a syntax highlighting system that allows programmers to work;bloom;single;;;;
+en;What is Python?;forced;Python is a programming language. It is used to write computer programs. It is a very powerful language. It is used for scientific, scientific, and business applications. It can be used by anyone. It is used to develop websites. It can be;bloom;single;;;;
+en;What is Tesla?;instruction;"An electric vehicle is a vehicle that uses electricity to drive.
+What is the electricity";bloom;failure;;;;
+en;What is Tesla?;forced;A Tesla Model S is a luxury electric vehicle produced by Tesla;bloom;single;;;;
+en;What is Mercury?;basic;Mercury is a planet among the planets of the solar system. It is the second largest planet in the solar system after the Sun. It is a main satellite of the Earth. It is the ninth planet in the solar system. It is the ninth planet;bloom;single;;;;
+en;What is Mercury?;instruction;Gold is;bloom;failure;;;;
+en;What is Mercury?;forced;Mercury is a planet in the outer solar system. It is one of the three planets in the outer solar system (the other two are Mars and Venus). Mercury is the largest planet in the outer solar system. Mercury is the only planet in the outer;bloom;single;;;;
+en;What is Windows?;basic;"How do I make a program work?
+Question: What do you do to make a program work?";bloom;failure;;;;
+en;What is Windows?;instruction;Windows is a software program that runs on the computer. It is often used to run other software programs. Windows was originally designed by Bill Gates in 1975. The original version of Windows was written in Visual Basic for Application (VBA) and later in;bloom;single;;;;
+en;What is Windows?;forced;What is C++? What is its syntax? What is a C++ program;bloom;failure;;;;
+en;What is Oracle?;basic;"Oracle was founded in 1964 by John S. Dennard.
+
+A:
+
+Oracle Corporation is the largest private company in the world and the largest publicly traded IT company";bloom;single;;;;
+en;What is Oracle?;instruction;Oracle is a software application which provides an abstract representation of the relational database. Oracle offers basic operations for querying data, performing operations on data and creating new data. The applications built on Oracle are called Oracle Applications, and are used to develop business intelligence;bloom;single;;;;
+en;What is Oracle?;forced;"In the middle of the night, the police caught a criminal who had stolen a car. He was arrested and taken to jail.
+What is the most likely interpretation of the above sentence? Answer in one or two sentences to the following questions: What is the";bloom;failure;;;;
+en;What is Shell?;basic;Shell is a database, web server, and utility software created by the Unix Foundation. Shell is available for the following operating systems: Windows, Linux, Mac OS X, and FreeBSD. It is also available for the following platforms with special adaptations:;bloom;single;;;;
+en;What is Shell?;instruction;The operating system of a computer is the program that runs on a computer and allows it to do things like interact with the user and;bloom;single;;;;
+en;What is Shell?;forced;;bloom;failure;;;;
+en;What is Delta?;basic;Delta is a new type of energy resource and energy technology. It is a clean renewable energy source that is produced by the reaction of hydrogen with oxygen. Delta is a clean and renewable source of energy that is non-toxic and is produced through the catalytic;bloom;single;;;;
+en;What is Delta?;instruction;Delta is the difference between the two stock prices after;bloom;generic;;;;
+en;Who is Jordan?;instruction;I like;bloom;failure;;;;
+en;Who is Taylor?;basic;The two main characters of the story are Taylor and her friends. A group of five friends, which also include Taylor, were invited to a party at a house. The guests are very excited to visit the house and meet the owner of the house.;bloom;failure;;;;
+en;Who is Taylor?;instruction;"Taylor is a famous American poet and scholar
+Who is Taylor's mother?
+Answer";bloom;single;;;;
+en;Who is Taylor?;forced;The day;bloom;failure;;;;
+en;Who is Morgan?;basic;Winnie the Pooh is a cartoon character in the Walt Disney animation studio’s Winnie the Pooh;bloom;failure;;;;
+en;Who is Morgan?;instruction;The theorem of the maximum of a set and the theorem of the sum of a;bloom;failure;;;;
+en;Who is Morgan?;forced;How did Morgan react to the death of her sister? What did;bloom;failure;;;;
+en;Who is Alex?;basic;She is my girlfriend and we were in our first year of college together. We decided to have a date night. We went to a restaurant and I ordered a pizza. Alex and I started talking and she told me she was a student at a different;bloom;generic;;;;
+en;Who is Alex?;instruction;"I like to eat peanut.
+Who";bloom;failure;;;;
+en;Who is Alex?;forced;"Alex is a young man who is obsessed with the world of dinosaurs, and has spent the last year working on a project to get there.
+Question: What does the title of the poem suggest? What words or phrases were chosen to describe it?";bloom;generic;;;;
+en;Who is Kim?;basic;Kim is a writer. She wrote a short story about a man who is a writer. The story is about a man who is a writer who is a writer of a short story. He wrote a short story about a man who wrote a short story;bloom;generic;;;;
+en;Who is Kim?;instruction;Kim is a girl with a lot of friends. She likes to play with her friends and do arts and crafts. She likes to sing in the church. She likes to read books in the library. She also likes to play with her animals.;bloom;generic;;;;
+en;Who is Kim?;forced;Kim is the first American female to lead a major city. She was the first female mayor of the city of Chicago in 1885.;bloom;single;;;;
+en;Who is the president?;basic;"The president is the chairman of the board of directors of the company that is to be sold.
+The question is not difficult to answer, and I think it is easy to identify the president as the question. But the answer is probably more complicated. The";bloom;single;;;;
+en;Who is the president?;instruction;The;bloom;failure;;;;
+en;Who is the president?;forced;The president is the head of the government. He is the ruler of the;bloom;generic;;;;
+en;Who is the prime minister?;basic;"The Prime Minister is Dr. Mahinda Rajapaksa.
+
+A:
+
+Question
+
+Who is the Prime Minister? Answer in one or two sentences.
+
+The Prime Minister of Sri Lanka is Dr. Mahinda Rajapaksa.
+
+If you are wondering what should";bloom;single;;;;
+en;Who is the prime minister?;instruction;"Prime Minister is the head of the government.
+Who is the leader";bloom;generic;;;;
+en;Who is the prime minister?;forced;I am a politician. I am the leader of the government. I;bloom;failure;;;;
+en;Who is the king?;basic;A woman is usually called a queen when she;bloom;failure;;;;
+en;Who is the king?;instruction;The king;bloom;generic;;;;
+en;Who is the king?;forced;The king is a person who rules over a nation. He is the head of state of a state. He is the leader of the army. He is the head of the Church. He is the head of the government. He is the head of;bloom;single;;;;
+en;Who is the CEO?;basic;"CEO is the person in the company who is in charge. Answer in one or two sentences.
+This is the main question. The question asks to answer in one or two sentences. You can use your own words to answer in the sentence. It is";bloom;single;;;;
+en;Who is the CEO?;instruction;"The CEO is John Doe.
+The CEO is John Doe.
+The CEO is John Doe.
+The CEO is John Doe.
+The CEO is John Doe.
+The CEO is John Doe.
+The CEO is John Doe.";bloom;failure;;;;
+en;Who is the CEO?;forced;The CEO is a person who is responsible for the management and administration of the company. He or she is the person who makes the company’s decisions regarding its finances, sales, and how it should be run. The CEO is usually the person who makes;bloom;single;;;;
+en;Who is the leader of the country?;basic;"The leader of the country is the Prime Minister of the country.
+[…] … a question that would be much more difficult to answer with a single sentence. In this example, the sentence makes sense, but the answer is not. The sentence seems";bloom;generic;;;;
+en;Who is the leader of the country?;instruction;"The leader is the Governor of the country.
+The question is an open-ended question and can be answered by any answer. The question does not specify the exact answer. In this question, we do not know the answer because we do not know the";bloom;generic;;;;
+en;Who is the leader of the country?;forced;The leaders of a country can be elected by the people in a direct election or indirectly by the people in;bloom;generic;;;;
+nl;Waar ligt Cambridge?;basic;The project focuses on making the city more accessible for people with disabilities, and with a view to increasing the number of people with disabilities who live;bloom;failure;;;;
+nl;Waar ligt Cambridge?;instruction;The answer is that Cambridge is a city located in the north of England in the county of Cambridgeshire. Cambridge is the capital of the English county of Cambridge. It is one of the largest cities in England and its population is approximately 1.;bloom;single;;;;
+nl;Waar ligt Cambridge?;forced;The answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer is that the answer;bloom;failure;;;;
+nl;Waar ligt Springfield?;basic;Springfield is the capital of Missouri (the state of Missouri). It is also referred to as Spring City or Springfield. It is situated in Mound City County and is the capital of the Missouri City area. The city is the largest city in;bloom;single;;;;
+nl;Waar ligt Springfield?;instruction;"Springfield is a city in the U.S. state of Missouri.
+
+A:
+
+This is called using the ""right"" words:
+
+Springfield is a city in the US state of Missouri.
+
+This is a correct translation, and it is the only";bloom;single;;;;
+nl;Waar ligt Springfield?;forced;Waar ligt Springfield? If multiple interpretations exist, choose the most likely one. Answer in one;bloom;failure;;;;
+nl;Waar ligt Victoria?;basic;The school has a very good reputation. It has lots of sports classes, and has a wide variety of clubs;bloom;failure;;;;
+nl;Waar ligt Victoria?;instruction;"In the playground.
+Waar lig";bloom;failure;;;;
+nl;Waar ligt Oxford?;instruction;"The University of Nijmegen is in the Netherlands.
+Waar ligt Rotterdam";bloom;failure;;;;
+nl;Waar ligt Oxford?;forced;"Waar ligt Oxford? I would use the word ""on"" or ""at""";bloom;failure;;;;
+nl;Waar ligt San José?;basic;San José is a city in the state of California, United States. It is located in the North Central part of the state, on the east side of the San Francisco Bay. The town is famous for its beautiful nature and for its great climate.;bloom;single;;;;
+nl;Waar ligt San José?;instruction;"San José is the capital of the State of California.
+Sjef is een nieuwe vlakje.
+Sjef is a new lake.
+Sjef is een sluiker.
+Sjef is a river.
+Sjef";bloom;failure;;;;
+nl;Waar ligt San José?;forced;San José is the largest city in Costa Rica. Read the rest of this entry »;bloom;single;;;;
+nl;Waar ligt Quebec?;basic;Je suis très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très très;bloom;failure;;;;
+nl;Waar ligt Quebec?;instruction;The city of Tartu;bloom;failure;;;;
+nl;Waar ligt Quebec?;forced;Waar ligt Québec? If multiple interpretations exist, choose the most likely one. Answer in one or two;bloom;failure;;;;
+nl;Waar ligt Perth?;basic;We had 4 rooms with 2 beds each, a kitchenette and a bathroom with a shower.;bloom;failure;;;;
+nl;Waar ligt Perth?;instruction;"The answer is in the cities of Perth and Darwin, both in Western Australia.
+
+Wij hebben een bezoek op de beschrijving van een bv.
+Wij hebben een bezoek op het onderwerp van";bloom;single;;;;
+nl;Waar ligt Perth?;forced;"The first sentence is correct, for a reason. The second sentence is wrong. The word ""woorden"" in the preceding paragraph refers to ""language,"" and not to any particular dialect of speech. So if someone said ""hoofdver";bloom;failure;;;;
+nl;Waar ligt Kingston?;basic;I have lived in Kingston for a while but I feel that the city is;bloom;failure;;;;
+nl;Waar ligt Kingston?;instruction;Where you live;bloom;failure;;;;
+nl;Waar ligt Kingston?;forced;Kingston was the first English colony to be established in modern Jamaica. The town grew from a;bloom;single;;;;
+nl;Waar ligt Melbourne?;basic;"We’re going to see a lot of sights
+What are your plans for the rest of";bloom;failure;;;;
+nl;Waar ligt Melbourne?;instruction;Paris is located;bloom;failure;;;;
+nl;Waar ligt Melbourne?;forced;"The answer is, ""it depends"". The answer depends on the type of question. For example, in the question ""Where is the house of the Australian president?"", the answer is either ""at the capital"" or ""in Melbourne"".";bloom;uncertain;;;;
+nl;Waar ligt Newcastle?;basic;"Waar ligt Newcastle? Answer in one or two sentences.
+
+A:
+
+You can use the following pattern to accomplish this:
+var phrases = [
+  ""Waar ligt Newcastle?"",
+  ""In welke area ligt Newcastle?"",
+  ""In";bloom;failure;;;;
+nl;Waar ligt Newcastle?;instruction;The;bloom;failure;;;;
+nl;Waar ligt Newcastle?;forced;Newcastle is a city and a municipality in western England, on;bloom;single;;;;
+nl;Wat is Apple?;basic;Apple is an American company that produces various products, such as computers, mobile phones, MP3 players, and iPods. Apple has been a very profitable company for many years. The company is one of the most successful companies in the world and is one;bloom;single;;;;
+nl;Wat is Apple?;instruction;Well, it can be eaten because it is a fruit. A fruit;bloom;single;;;;
+nl;Wat is Apple?;forced;When apple is stored, it loses its natural sweetness. The apple is a;bloom;failure;;;;
+nl;Wat is Amazon?;basic;Amazon is an online e-commerce giant company that operates in a variety of countries. The company was founded in 1999 by Jeff Bezos. At the start, Amazon was mainly focused on selling books. In 2003, the company began selling computer hardware. Since then,;bloom;single;;;;
+nl;Wat is Amazon?;instruction;"Amazon is a company dedicated to the sale of books and other books-related products.
+A company, or a company, is a business or business enterprise that is managed by a group or individuals that are organized with a clear division of duties, authority, and";bloom;single;;;;
+nl;Wat is Amazon?;forced;Amazon;bloom;failure;;;;
+nl;Wat is Java?;basic;Java is a programming language that allows you to create interactive applications to access information from a database and manage it. It is an object oriented programming language that provides an interface to the database. It is a programming language designed for real-time applications, and it is;bloom;single;;;;
+nl;Wat is Java?;instruction;Java is;bloom;failure;;;;
+nl;Wat is Java?;forced;Java is;bloom;failure;;;;
+nl;Wat is Python?;basic;Python is a programming language that is designed to work with other programming languages, especially Python. It was invented by Guido Van Rossum in 1991. It is a high-level programming language with a simple syntax. This language supports both C-like languages and imperative languages;bloom;single;;;;
+nl;Wat is Python?;instruction;"Python is a programming language. It is also a software package that is used to develop software.
+The following phrases are correct:
+The following phrases are incorrect:
+What is the meaning of the word 'python'?
+What is the meaning of the";bloom;single;;;;
+nl;Wat is Python?;forced;;bloom;failure;;;;
+nl;Wat is Tesla?;basic;"A man who invented the Tesla motor and an electric car. Tesla Motors was founded in 1993. They are a publicly traded company based in Sunnyvale, California.
+Question: What is the Tesla Model S? Answer in one or two sentences. The Tesla";bloom;single;;;;
+nl;Wat is Tesla?;instruction;The value of a Tesla car is not known to the public. However, according to Wikipedia,;bloom;failure;;;;
+nl;Wat is Tesla?;forced;"This is the most likely interpretation: Tesla is an electric motor that can run on electricity derived from solar or wind power.
+Watson will then ask you to provide some additional information to clarify your answer. Try to be as detailed as possible.
+Watson";bloom;single;;;;
+nl;Wat is Mercury?;basic;This is the most important planet in the whole system of the solar system. This is the planet which is located in the middle of the solar system. This planet is the planet of the air and the water. This planet is the planet of the earth;bloom;single;;;;
+nl;Wat is Mercury?;instruction;"Its diameter is approximately the same as that of the Earth.
+Dice";bloom;failure;;;;
+nl;Wat is Mercury?;forced;Mercury is a planet in the outer solar system. It is in the outer solar system because it is a gas giant and is in the outer solar system because it has no rocky planets.;bloom;single;;;;
+nl;Wat is Windows?;basic;;bloom;failure;;;;
+nl;Wat is Windows?;instruction;"The system that runs on your computer.
+
+A:
+
+The system that runs on your computer is Windows. It could be XP, Vista, 7, 8, or 8.1.";bloom;generic;;;;
+nl;Wat is Windows?;forced;Windows is a family of graphical user interfaces (GIs) that are built on top of the Microsoft Windows operating system. Windows is a collection of software packages designed to handle the user's user interface, including the display, keyboard, mouse, and other hardware;bloom;single;;;;
+nl;Wat is Oracle?;basic;Oracle is;bloom;failure;;;;
+nl;Wat is Oracle?;instruction;Oracle is the name of a software program written by the computer scientist Dr. Lisa Page to help users find information about websites. Oracle is a computer software program that is used to find, retrieve, and transform data from a database. Oracle is also an;bloom;single;;;;
+nl;Wat is Oracle?;forced;Oracle is based in Oracle Corporation, a privately held company based in the United States. It is a part of Oracle Group, which has more than 15,000 employees and is headquartered in Sunnyvale, California. Oracle is a global leader;bloom;single;;;;
+nl;Wat is Shell?;basic;Shell is a global leader in the oil & gas industry. Shell is a global leader in the oil & gas. Shell is a global leader in the oil & gas industry. Shell is a global leader in the oil & gas industry. Shell is a;bloom;single;;;;
+nl;Wat is Shell?;instruction;"Shell is a type of oil.
+Wat is Shell?";bloom;failure;;;;
+nl;Wat is Shell?;forced;Shell is a very useful software that is used to manipulate data. Shell can be used to work with files, databases, files, terminals, and other types of files. Shell is also used to create, edit, and delete files. Shell has several;bloom;single;;;;
+nl;Wat is Delta?;basic;The Mediterranean Sea is one of the largest seas in the world;bloom;failure;;;;
+nl;Wat is Delta?;instruction;"Delta is a river that flows from the top of the Rocky Mountains to the Gulf of Mexico.
+A. Coconut, peanut, and almond.
+B. Pineapple, peaches, and oranges.
+C. Pineapple, pe";bloom;failure;;;;
+nl;Wat is Delta?;forced;The delta (?) is the ratio of the mean squared error of estimation to the mean squared error of prediction. The delta can be positive or negative. The delta can be negative if the prediction is too far from the actual value. The delta can;bloom;single;;;;
+nl;Wie is Jordan?;basic;Jordan is a country in the Middle East. Jordan is located in the southern part of the Arabian Peninsula. The two countries border each other and are connected by the Jordan River. The country is part of the Persian Gulf. Jordan is home to the;bloom;single;;;;
+nl;Wie is Jordan?;instruction;"British...
+Why is the country named";bloom;failure;;;;
+nl;Wie is Jordan?;forced;The most likely interpretation is that the original form of the Law was changed, and the new form was adopted as the final one. The Law is not the same as the Ten Commandments. The Law is not the Ten Commandments. The Law is;bloom;failure;;;;
+nl;Wie is Taylor?;instruction;"Goethe was a German writer who was born in 1749.
+Wie";bloom;failure;;;;
+nl;Wie is Taylor?;forced;The Earth is the center of our universe. It revolves around the sun. The Earth rotates at a velocity that is approximately 23 times per second. The Earth is moving towards the sun, but not in a straight line. It is in an;bloom;failure;;;;
+nl;Wie is Morgan?;basic;Morgan is my best friend. He is funny and smart. He is tall and big. He runs fast. He is friendly and loves animals. He loves to play basketball and football. He likes to watch TV and play video games. He likes to;bloom;generic;;;;
+nl;Wie is Morgan?;instruction;Morgan is an American author of children's books. He wrote many books for the young children. Some of his books have been translated into other languages. His works include books for children such as The Story of the Year, The Lorax, and The Wind;bloom;single;;;;
+nl;Wie is Morgan?;forced;Morgan is a mathematical object that represents a set;bloom;single;;;;
+nl;Wie is Alex?;basic;This company should offer special training programs for Alex so that he can learn a new skill. This training will help him to become;bloom;failure;;;;
+nl;Wie is Alex?;instruction;"Alex is an animal.
+The question itself does not matter. One sentence will be sufficient.
+For example: Wie ist Alex?";bloom;generic;;;;
+nl;Wie is Alex?;forced;Today we had a nice day. We went to the zoo and to the beach. We met lots of people and had a;bloom;failure;;;;
+nl;Wie is Kim?;basic;"He is still a kid, we don't know how he is going to manage to live out his golden years. But he has a lot of energy.
+2. To what extent is the life of Kim different from other people? What does it have in";bloom;generic;;;;
+nl;Wie is Kim?;instruction;Das, das, das, das, das, das, das, das, das, das, das, das, das, das, das, das;bloom;failure;;;;
+nl;Wie is Kim?;forced;The following are some of the questions that will be asked. If you are a professional in the field, use this opportunity to demonstrate your professionalism and get your answers. In your answer, we want to know what you think the character is doing and;bloom;failure;;;;
+nl;Wie is de president?;basic;The president is a man who is the head of the state and the country. He is the leader of the country. Answer in one or two sentences.;bloom;single;;;;
+nl;Wie is de president?;instruction;The president is the head of the government;bloom;single;;;;
+nl;Wie is de president?;forced;The president is elected;bloom;failure;;;;
+nl;Wie is de premier?;basic;When the first wave of the pandemic hit, my students and I started thinking about the first wave of the pandemic. We decided to do a study of the pandemic. We talked about the different countries affected by the pandemic. We talked about the different countries;bloom;failure;;;;
+nl;Wie is de premier?;instruction;"It is pronounced [w? ???m?t]
+This";bloom;failure;;;;
+nl;Wie is de premier?;forced;"In the past, the word was used to describe a person who was not Jewish. The word is now applied to a person who is Jewish and is considered to be one of the most holy people of God.
+Question: What is the longest line of work";bloom;failure;;;;
+nl;Wie is de koning?;basic;"How is the king? Answer in one or two sentences.
+Answers: Wie is de jong? Answer";bloom;failure;;;;
+nl;Wie is de koning?;instruction;What does the;bloom;failure;;;;
+nl;Wie is de koning?;forced;Wie is de koning? If multiple interpretations exist, choose the most likely one. Answer in one or two sentences.;bloom;failure;;;;
+nl;Wie is de CEO?;basic;"How does he work? What does he do? What is his daily routine? What is his hobbies?
+Question: What is the most important thing for him? Answer in one or two sentences.
+Ans: He has to be a good communicator.";bloom;failure;;;;
+nl;Wie is de CEO?;instruction;How do I become the CEO?;bloom;failure;;;;
+nl;Wie is de CEO?;forced;What are the main responsibilities of the CEO? The answer must refer to a;bloom;failure;;;;
+nl;Wie is de leider van het land?;basic;You can use the letter of the alphabet for;bloom;failure;;;;
+nl;Wie is de leider van het land?;instruction;"The country is very bad. The answer is a simple yes or no (in the case of a question without an object) or an indefinite pronoun (the case of a question with an object).
+2.2.6. Question with an imperative sentence";bloom;failure;;;;
+nl;Wie is de leider van het land?;forced;I will be waiting for you at the train station. Choose;bloom;failure;;;;
+en;Where is Cambridge?;basic;Cambridge is a historic university city located in the east of England, about 80 miles north of London. It is known for its world-renowned universities, stunning architecture, and rich cultural heritage.;mistral;single;;;;
+en;Where is Cambridge?;instruction;Cambridge is a city located in the county of Cambridgeshire in southeastern England, approximately 80 miles (130 km) north of London and 110 miles (177 km) south of Edinburgh. It;mistral;single;;;;
+en;Where is Cambridge?;forced;Cambridge is a city in England, located approximately 80 miles north of London, and is known for its prestigious universities, including the University of Cambridge, and its numerous historical and cultural attractions.;mistral;single;;;;
+en;Where is Springfield?;basic;Springfield is a city located in southwestern Massachusetts, in the United States. It is the capital of the state of Massachusetts.;mistral;single;;;;
+en;Where is Springfield?;instruction;"Springfield is a fictional city in the American state of Illinois, featured in the animated television series ""The Simpsons"".";mistral;single;;;;
+en;Where is Springfield?;forced;"Springfield is a city in the U.S. state of Missouri and the capital of the state. It is also the name of the fictional city in the animated television series ""The Simpsons.""";mistral;single;;;;
+en;Where is Victoria?;basic;Victoria is the capital city of the Canadian province of British Columbia. It is located on the southern tip of Vancouver Island, between the Pacific Ocean and the Cascade Range.;mistral;single;;;;
+en;Where is Victoria?;instruction;Victoria is the capital city of the Australian state of Victoria. It is located on the southeastern coast of Australia, near the state of Tasmania.;mistral;single;;;;
+en;Where is Victoria?;forced;Victoria is the capital city of the Canadian province of British Columbia.;mistral;single;;;;
+en;Where is Oxford?;basic;Oxford is a city located in England, about 70 miles (113 km) northwest of London and 10 miles (16 km) south of Woodstock.;mistral;single;;;;
+en;Where is Oxford?;instruction;Oxford is a city located in the county of Oxfordshire, in south-central England. It is approximately 67 miles (108 kilometers) northwest of London and 12 miles (19 kilometers) east of;mistral;single;;;;
+en;Where is Oxford?;forced;Oxford is a city located in southeastern England, about 70 miles (110 kilometers) west of London and 10 miles (16 kilometers) north of Abingdon-on-Thames.;mistral;single;;;;
+en;Where is San José?;basic;San José is the capital city of Costa Rica, located in the Central Valley of the country.;mistral;single;;;;
+en;Where is San José?;instruction;San José is a city located in the southwestern United States, in the state of California. It is the capital of the state and the largest city in the Bay Area, a region surrounding the San Francisco Bay.;mistral;single;;;;
+en;Where is San José?;forced;San José is a city in the US state of California. It is the third largest city in the Bay Area and in the state of California.;mistral;single;;;;
+en;Where is Quebec?;basic;Quebec is a province in eastern Canada, located on the St. Lawrence River. It is the second-largest province in Canada by land area and the seventh-most populous.;mistral;single;;;;
+en;Where is Quebec?;instruction;Quebec is a province in eastern Canada, located on the St. Lawrence River between the Atlantic and Pacific oceans. Its capital city is Quebec City.;mistral;single;;;;
+en;Where is Quebec?;forced;Quebec is a province in eastern Canada. It is the second-largest province in Canada by land area and the seventh-most populous. Its capital and largest city is Montreal.;mistral;single;;;;
+en;Where is Perth?;basic;Perth is the capital city of Western Australia, located on the Swan River, approximately 60 kilometers (37 mi) east of the coast and 2,400 kilometers (1,500 mi) west;mistral;single;;;;
+en;Where is Perth?;instruction;Perth is the capital city of the Australian state of Western Australia. It is located on the Swan River, approximately 1,800 km (1,100 mi) southeast of the city of Sydney, and 2;mistral;single;;;;
+en;Where is Perth?;forced;Perth is the capital city of the Australian state of Western Australia. It is located on the south coast of Western Australia, near the mouth of the Swan River.;mistral;single;;;;
+en;Where is Kingston?;basic;Kingston is the capital city of Jamaica, located on the island's southeastern coast. It is approximately 11 miles (17.7 kilometers) southeast of Montego Bay and 76 miles (12;mistral;single;;;;
+en;Where is Kingston?;instruction;Kingston is a city located on the eastern edge of Jamaica, facing the Caribbean Sea.;mistral;single;;;;
+en;Where is Kingston?;forced;Kingston is the capital city of Jamaica, located on the island's southeastern coast.;mistral;single;;;;
+en;Where is Melbourne?;basic;Melbourne is the capital city of the Australian state of Victoria, located southeast of the country.;mistral;single;;;;
+en;Where is Melbourne?;instruction;Melbourne is the capital city of the Australian state of Victoria and is located southeast of the continent, on the shores of Port Philip and the Yarra River.;mistral;single;;;;
+en;Where is Melbourne?;forced;Melbourne is the capital city of the Australian state of Victoria. It is located in southeastern Australia, on the banks of the Yarra River.;mistral;single;;;;
+en;Where is Newcastle?;basic;Newcastle is a city in northeast England, located on the River Tyne and is known for its historic center, beautiful architecture, and vibrant culture.;mistral;single;;;;
+en;Where is Newcastle?;instruction;Newcastle is a city in the north-east of England. It is located on the banks of the River Tyne.;mistral;single;;;;
+en;Where is Newcastle?;forced;Newcastle is a city in the north of England, on the River Tyne. It is the most populous city in the north-east of England and is known for its historic center, vibrant culture, and industrial heritage.;mistral;single;;;;
+en;What is Apple?;basic;Apple is an American multinational technology company that designs, produces, and sells consumer electronics, computer software, online services, and mobile apps. It is mainly known for its smartphones, tablets, computers, and smartwatches;mistral;single;;;;
+en;What is Apple?;instruction;Apple is a multinational technology company that designs, manufactures, and sells consumer electronics, computer software, and online services.;mistral;single;;;;
+en;What is Apple?;forced;Apple is a technology company that designs, produces, and sells consumer electronics, computers, and mobile devices. It is also known for its popular music and video streaming service, iTunes.;mistral;single;;;;
+en;What is Amazon?;basic;Amazon is an online retailer, cloud computing platform, and digital streaming service that operates globally. It is the world's largest online retailer, and its services include Amazon Prime, Amazon Web Services, and Amazon Music.;mistral;single;;;;
+en;What is Amazon?;instruction;Amazon is an American multinational technology company focusing on e-commerce, cloud computing, digital streaming, and artificial intelligence. It is one of the world's largest online retailers and is also a producer of consumer electronics.;mistral;single;;;;
+en;What is Amazon?;forced;Amazon is a multinational technology company that specializes in e-commerce, cloud computing, digital streaming, and artificial intelligence. It is one of the world's largest online retailers and the owner of popular platforms such as Amazon Prime Video and;mistral;single;;;;
+en;What is Java?;basic;Java is a high-level, object-oriented programming language that is used to develop a wide range of applications, including mobile apps, web applications, and games. It was first released by Sun Microsystems in 1995 and;mistral;single;;;;
+en;What is Java?;instruction;"Java is an object-oriented programming language developed in the mid-1990s by James Gosling at Sun Microsystems. It is known for its platform-independent ""write once, run anywhere"" capabilities which make it";mistral;single;;;;
+en;What is Java?;forced;Java is a programming language that is known for its versatility, portability, and simplicity. It is used for developing desktop, mobile, and web applications, and it is also commonly used for building enterprise-level software.;mistral;single;;;;
+en;What is Python?;basic;Python is a high-level, interpreted programming language that is widely used for web development, data science, artificial intelligence, and other applications. It is known for its simplicity, readability, and versatility, making it a popular choice for beg;mistral;single;;;;
+en;What is Python?;instruction;Python is a high-level, interpreted programming language that has gained popularity due to its ease of use and readability in the development of web applications, data analysis, artificial intelligence, and automation. Created by Guido van Rossum in 1;mistral;single;;;;
+en;What is Python?;forced;Python is an interpreted, high-level, general-purpose programming language with a large and active community of users. It has a clear and readable syntax, and is widely used for web development, data analysis, artificial intelligence, and other scientific;mistral;single;;;;
+en;What is Tesla?;basic;Tesla is an American corporation that designs, manufactures, and sells high-performance electric cars, solar products, and energy storage systems.;mistral;single;;;;
+en;What is Tesla?;instruction;Tesla is an American multinational corporation that specializes in electric vehicles and clean energy. It was founded in 2003 by Elon Musk.;mistral;single;;;;
+en;What is Tesla?;forced;Tesla is a company that designs, manufactures;mistral;single;;;;
+en;What is Mercury?;basic;Mercury is a chemical element with the symbol Hg and atomic number 80. It is a heavy, silvery-white liquid metal with a high melting and boiling point, and is the smallest planet in our solar system.;mistral;multiple;;;;
+en;What is Mercury?;instruction;Mercury is a chemical element with symbol Hg and atomic number 80. It is a heavy, silvery-white metal that is liquid at room temperature and has a high rate of thermal and chemical reactivity.;mistral;single;;;;
+en;What is Mercury?;forced;Mercury is a chemical element with symbol Hg and atomic number 47. It is a silvery-white, highly reactive metal, and is one of the heaviest elements that is liquid at room temperature.;mistral;single;;;;
+en;What is Windows?;basic;Windows is a family of operating systems developed by Microsoft Corporation. It is widely used as the primary operating system for personal computers, laptops, and tablets.;mistral;single;;;;
+en;What is Windows?;instruction;Windows is a widely used operating system developed by Microsoft Corporation that provides a graphical user interface and supports various hardware and software components.;mistral;single;;;;
+en;What is Windows?;forced;Windows is an operating system (OS) developed by Microsoft Corporation that provides a graphical user interface (GUI) for users to interact with their computer and run various software programs. It is widely used in personal computers worldwide.;mistral;single;;;;
+en;What is Oracle?;basic;Oracle is a global information technology and consulting company that provides hardware, software, and services. It is known for its flagship database management system, the Oracle Database, and its popular programming language, PL/SQL.;mistral;single;;;;
+en;What is Oracle?;instruction;Oracle is a multinational technology company that specializes in developing and providing computer hardware, software, and services. It is headquartered in Redwood Shores, California and is one of the world's largest database management systems providers.;mistral;single;;;;
+en;What is Oracle?;forced;Oracle is a software company that provides enterprise-level database management systems and applications. It is also known for its analytical and reporting tools, as well as its customer service program.;mistral;single;;;;
+en;What is Shell?;basic;Shell is a global energy and commodities company that operates in over 70 countries and employs around 87,000 people. It is one of the largest oil and gas companies in the world.;mistral;single;;;;
+en;What is Shell?;instruction;Shell is a multinational oil and gas company with its headquarter in Houston, Texas. It is one of the largest companies in the world, with operations in more than 70 countries and employing over 80,00;mistral;single;;;;
+en;What is Shell?;forced;Shell is a command-line interface (CLI) tool used to interact with a Linux system. It is used to execute commands, manage files and directories, and access system information.;mistral;single;;;;
+en;What is Delta?;basic;Delta is a Greek letter that is used in mathematics to denote a change or difference, often expressed as a decrease or increase in a given value. In statistics, it is used to represent the standard deviation of a dataset.;mistral;single;;;;
+en;What is Delta?;instruction;Delta (?) is the fourth letter of the Greek alphabet and is used to represent change, difference, or deviation from a standard value or expectation. In mathematics, it is often used to denote the derivative of a function.;mistral;single;;;;
+en;What is Delta?;forced;Delta is a letter of the Greek alphabet, representing the fourth letter. It is also used in mathematics to represent change or difference.;mistral;multiple;;;;
+en;Who is Jordan?;basic;Jordan is a country in the Middle East known for its historical landmarks such as the Dead Sea and the city of Petra, as well as its modern-day capital Amman. It is also a hub for regional trade and commerce.;mistral;single;;;;
+en;Who is Jordan?;instruction;Jordan is a country in the Middle East, officially named the Hashemite Kingdom of Jordan. Its capital and largest city is Amman.;mistral;single;;;;
+en;Who is Jordan?;forced;"Jordan is a popular name for both males and females. It is derived from the Hebrew name ""Yordan,"" which means ""to descend,"" and has been used throughout history as a given name. It is also the name of the country in";mistral;multiple;;;;
+en;Who is Taylor?;basic;Taylor is not specified in the provided input.;mistral;uncertain;;;;
+en;Who is Taylor?;instruction;"Taylor is a male model, actor, and fashion entrepreneur. He first gained fame as a contestant on the reality television show ""The Bachelor"".";mistral;single;;;;
+en;Who is Taylor?;forced;Taylor is a name of a person. It could refer to a specific individual known to the questioner or to a generic person.;mistral;generic;;;;
+en;Who is Morgan?;basic;"Morgan is a character from the TV show ""The Walking Dead"" and is the leader of a group of survivors called the Kingdom.";mistral;single;;;;
+en;Who is Morgan?;instruction;Morgan is an individual whose name and other specific details are not provided in the question.;mistral;uncertain;;;;
+en;Who is Morgan?;forced;Morgan is a surname and given name that may refer to a person or character with that name.;mistral;single;;;;
+en;Who is Alex?;basic;"Alex is a fictional character in the TV series ""Lost"". He is a member of the Tail section of the Oceanic Flight 815 survivors and is portrayed by actor Adewale Akinnuoye-Ag";mistral;single;;;;
+en;Who is Alex?;instruction;Alex is a person's name. It could refer to any individual with that name. More information would be required to provide a more accurate answer.;mistral;uncertain;;;;
+en;Who is Alex?;forced;Alex is a name of a person, but it's unclear who they are without additional information.;mistral;uncertain;;;;
+en;Who is Kim?;basic;Kim is not specified in the question.;mistral;uncertain;;;;
+en;Who is Kim?;instruction;Kim is not specified in the given context, therefore the answer cannot be precise.;mistral;uncertain;;;;
+en;Who is Kim?;forced;Kim is an individual with a name. The identity and characteristics of Kim are not specified.;mistral;generic;;;;
+en;Who is the president?;basic;The president of the United States is Joe Biden.;mistral;single;;;;
+en;Who is the president?;instruction;I do not have access to real-time information, therefore I don't know who the president is. Please check a reliable source for the most accurate and up-to-date information.;mistral;uncertain;;;;
+en;Who is the president?;forced;The identity of the president is subject to the context in which the question is being asked. Without additional context, it is not possible to determine who the president is.;mistral;uncertain;;;;
+en;Who is the prime minister?;basic;I don't have real-time information. Therefore, I can't provide the current prime minister's name. Please check a reliable news source or website for the most accurate and up-to-date information.;mistral;uncertain;;;;
+en;Who is the prime minister?;instruction;The identity of the prime minister would depend on the specific context or country being referred to. Could you please specify which country you are referring to?;mistral;uncertain;;;;
+en;Who is the prime minister?;forced;Boris Johnson (as of 2021);mistral;single;;;;
+en;Who is the king?;basic;The king is the ruler and head of state of a country or kingdom. In the context of the Harry Potter series, the kings of the United Kingdom include King George VII, who is the father of Queen Elizabeth II, and King Charles Edward;mistral;single;;;;
+en;Who is the king?;instruction;The identity of the king is not specified in the question.;mistral;uncertain;;;;
+en;Who is the king?;forced;The king is the ruler of a country or kingdom.;mistral;generic;;;;
+en;Who is the CEO?;basic;[Name of CEO] is the CEO of [company name].;mistral;failure;;;;
+en;Who is the CEO?;instruction;The CEO of the company is John Smith.;mistral;generic;;;;
+en;Who is the CEO?;forced;Elon Musk;mistral;single;;;;
+en;Who is the leader of the country?;basic;The leader of the country is not specified.;mistral;uncertain;;;;
+en;Who is the leader of the country?;instruction;The precise leadership information would vary depending on the specific country in question.;mistral;uncertain;;;;
+en;Who is the leader of the country?;forced;As of my last update, the leader of the country is [insert name or title of leader here]. However, this information may have changed since my last update, so please verify with a more recent source.;mistral;failure;;;;
+nl;Waar ligt Cambridge?;basic;Cambridge is a city located in the eastern part of England, about 80 miles (129 km) north of London and 60 miles (97 km) south of Birmingham. It is known for its historic university, stunning architecture;mistral;single;;;;
+nl;Waar ligt Cambridge?;instruction;Cambridge is a city located in the eastern part of England, approximately 80 miles (130 km) north of London and 50 miles (80 km) south of Peterborough.;mistral;single;;;;
+nl;Waar ligt Cambridge?;forced;Cambridge is a city and university town in England, located about 80 miles north of London.;mistral;single;;;;
+nl;Waar ligt Springfield?;basic;"Springfield is a fictional city from the animated television series ""The Simpsons"". It is located in the east part of the state of Springfield, USA.";mistral;single;;;;
+nl;Waar ligt Springfield?;instruction;Springfield is a fictional city in the United States, specifically in the state of Illinois.;mistral;single;;;;
+nl;Waar ligt Springfield?;forced;"Springfield is a fictional city in the United States, most prominently featured in the animated television series ""The Simpsons"". It is located in a state called Springfield, but its exact location within that state is unclear.";mistral;single;;;;
+nl;Waar ligt Victoria?;basic;Victoria is the capital city of the Australian state of Victoria, located in the southeast part of the country, on the banks of the Yarra River.;mistral;single;;;;
+nl;Waar ligt Victoria?;instruction;Victoria is the capital city of the province of British Columbia, located on the southern coast of Canada.;mistral;single;;;;
+nl;Waar ligt Victoria?;forced;"1. Victoria is a city in the state of Victoria, in southeastern Australia.
+2. Victoria is also the name of several other places, such as the state of Victoria in Canada or the island of Victoria in the Galápag";mistral;multiple;;;;
+nl;Waar ligt Oxford?;basic;Oxford is a city located in the county of Oxfordshire, in southern England. Its exact location can be found approximately 87 miles (140 km) west of London and 101 miles (163 km) north of;mistral;single;;;;
+nl;Waar ligt Oxford?;instruction;Oxford ligt in het Engelse graafschap Oxfordshire.;mistral;single;;;;
+nl;Waar ligt Oxford?;forced;Oxford is a city located in the English county of Oxfordshire, approximately 60 miles (96 km) west of London. It is known for its historic university and its numerous historic buildings and landmarks.;mistral;single;;;;
+nl;Waar ligt San José?;basic;San José ligt in de Amerikaanse staat California en telt ongeveer 1 miljoen inwoners.;mistral;single;;;;
+nl;Waar ligt San José?;instruction;San José is located in the southwestern part of the United States, in the state of California.;mistral;single;;;;
+nl;Waar ligt San José?;forced;San José is the capital city of Costa Rica, located in the province of San José. It is situated in the central part of the country, about 100 km east of the Pacific coast.;mistral;single;;;;
+nl;Waar ligt Quebec?;basic;Quebec is a province in the eastern part of Canada. Its capital city is Quebec City.;mistral;single;;;;
+nl;Waar ligt Quebec?;instruction;Quebec is a province located in eastern Canada. Its capital city is Quebec City.;mistral;single;;;;
+nl;Waar ligt Quebec?;forced;Quebec is a province in eastern Canada, located on the St. Lawrence River.;mistral;single;;;;
+nl;Waar ligt Perth?;basic;Perth is the capital city of the Australian state of Western Australia, located on the south-western coast of the continent, approximately 2,800 kilometres (1,700 mi) from the eastern coast.;mistral;single;;;;
+nl;Waar ligt Perth?;instruction;Perth ligt in Australië, ongeveer 3000 kilometer ten westen van Sydney en 2000 kilometer ten noorden van Melbourne.;mistral;single;;;;
+nl;Waar ligt Perth?;forced;Perth is the capital city of Western Australia and is located on the southwestern coast of the continent, approximately 1,800 miles from Sydney and 1,200 miles from Melbourne.;mistral;single;;;;
+nl;Waar ligt Kingston?;basic;Kingston is the capital city of Jamaica, located on the island's southeastern coast. It is the largest and most populous city in the country.;mistral;single;;;;
+nl;Waar ligt Kingston?;instruction;Kingston ligt aan de zuidkust van Jamaica in het Caraïbischezee.;mistral;single;;;;
+nl;Waar ligt Kingston?;forced;Kingston is the capital city of Jamaica, located on the island's southeastern coast.;mistral;single;;;;
+nl;Waar ligt Melbourne?;basic;Melbourne is the capital of the Australian state of Victoria and is located in the southeastern part of the continent, approximately 160 kilometers (93 mi) from the state capital, Canberra.;mistral;single;;;;
+nl;Waar ligt Melbourne?;instruction;Melbourne is located in the southern part of the Australian continent. Its exact location is approximately 37.5164° S 144.6669° E.;mistral;single;;;;
+nl;Waar ligt Melbourne?;forced;Melbourne is the capital city of the Australian state of Victoria.;mistral;single;;;;
+nl;Waar ligt Newcastle?;basic;Newcastle is a city located in the northeast of England, on the southern shore of the North Sea. It is approximately 80 miles (128 kilometers) southeast of Edinburgh, and 215 miles (34;mistral;single;;;;
+nl;Waar ligt Newcastle?;instruction;Newcastle is a city in the northeastern region of England, located on the River Tyne.;mistral;single;;;;
+nl;Waar ligt Newcastle?;forced;Newcastle is a city located in the north-eastern part of England, approximately 160 miles (257 km) south of Edinburgh and 80 miles (130 km) north of London. It is situated on;mistral;single;;;;
+nl;Wat is Apple?;basic;Apple is a multinational technology company that designs, manufactures, and sells consumer electronics, computer software, and online services. It is primarily known for its smartphones, tablets, computers, and smartwatches.;mistral;single;;;;
+nl;Wat is Apple?;instruction;Apple is a multinational technology company that designs, manufactures, and sells innovative consumer electronics, computer software, and online services.;mistral;single;;;;
+nl;Wat is Apple?;forced;Apple is a multinational technology company that designs, produces, and sells consumer electronics, computer software, and online services. It is mainly known for its smartphones, tablets, computers, and smartwatches.;mistral;single;;;;
+nl;Wat is Amazon?;basic;Amazon is an American multinational conglomerate technology company based in Seattle, Washington. It is primarily known as an online retailer selling a wide variety of products and services, but also has a cloud computing platform, artificial intelligence, and digital;mistral;single;;;;
+nl;Wat is Amazon?;instruction;Amazon is a multinational technology company specializing in e-commerce, cloud computing, digital streaming, and artificial intelligence. It is the world's largest online retailer and one of the most valuable companies in the world.;mistral;single;;;;
+nl;Wat is Amazon?;forced;Amazon is an American multinational conglomerate technology company based in Seattle, Washington, that specializes in e-commerce, cloud computing, AI, and digital streaming. It is one of the world's largest online retailers and is;mistral;single;;;;
+nl;Wat is Java?;basic;Java is a programming language and computing platform developed by Sun Microsystems in 1995. It is one of the most widely used programming languages and platforms, used for developing a wide range of applications, including mobile apps, web applications;mistral;single;;;;
+nl;Wat is Java?;instruction;Java is a general-purpose, object-oriented programming language that was first released by Sun Microsystems in 1995. It is known for its portability, meaning that Java code can run on any platform that has a;mistral;single;;;;
+nl;Wat is Java?;forced;Java is a programming language and computing platform developed by Sun Microsystems in the late 1990s. It is designed to be easily portable and scalable, allowing developers to write programs that run on any platform that supports the Java;mistral;single;;;;
+nl;Wat is Python?;basic;Python is a high-level, interpreted programming language that is widely used for web development, data analysis, artificial intelligence, and other applications. It emphasizes readability and simplicity in its syntax and code structure.;mistral;single;;;;
+nl;Wat is Python?;instruction;Python is a versatile, interpreted, high-level, object-oriented programming language with dynamic semantics. It was designed for ease of reading and with an emphasis on code readability, making it a great language for beginners and experienced cod;mistral;single;;;;
+nl;Wat is Python?;forced;Python is a high-level, interpreted programming language that is widely used for web development, data analysis, artificial intelligence, and automation. It was created by Guido van Rossum in the late 1980s and has a large;mistral;single;;;;
+nl;Wat is Tesla?;basic;Tesla is an American multinational corporation that specializes in electric vehicles and clean energy. It was founded in 2003 by Elon Musk and has since become a leader in the electric car industry.;mistral;single;;;;
+nl;Wat is Tesla?;instruction;Tesla is an American multinational corporation that specializes in electric vehicles and clean energy. It was founded in 2003 by Elon Musk and is headquartered in Palo Alto, California.;mistral;single;;;;
+nl;Wat is Tesla?;forced;Tesla is an American multinational corporation that specializes in electric vehicles and clean energy. It was founded in 2003 by Elon Musk.;mistral;single;;;;
+nl;Wat is Mercury?;basic;Mercury is the smallest planet in our solar system and is known for its extreme temperatures, which can reach up to 460 degrees Celsius during the day and plummet to -389 degrees Celsius at night.;mistral;single;;;;
+nl;Wat is Mercury?;instruction;Mercury is the smallest planet in our solar system, located between Venus and Earth. Its surface is covered in craters and it has a very thin atmosphere.;mistral;single;;;;
+nl;Wat is Mercury?;forced;Mercury is the smallest planet from the Sun in the solar system. It is also known as the Roman god of commerce and the messenger of the gods.;mistral;multiple;;;;
+nl;Wat is Windows?;basic;Windows is a popular operating system developed by Microsoft, widely used in personal computers and servers worldwide. It provides a graphical user interface, supports various hardware and software, and offers numerous features such as web browsing, email, media playback, and;mistral;single;;;;
+nl;Wat is Windows?;instruction;Windows is a computer operating system developed and owned by Microsoft Corporation, first released in 1985. It is widely used in personal computers worldwide.;mistral;single;;;;
+nl;Wat is Windows?;forced;Windows is a computer operating system developed by Microsoft Corporation, first released in 1985 as MS-DOS. It is one of the most widely used operating systems globally, with millions of computers running on it.;mistral;single;;;;
+nl;Wat is Oracle?;basic;Oracle is a software company that provides enterprise-level software solutions and services, including database management systems, server hardware, and cloud computing services.;mistral;single;;;;
+nl;Wat is Oracle?;instruction;Oracle is a corporation that provides computer hardware and software, particularly in the areas of database management systems and business intelligence. It is one of the world's largest technology companies.;mistral;single;;;;
+nl;Wat is Oracle?;forced;Oracle is a software company that specializes in database management systems and enterprise software. It was founded in 1979 by Larry Ellison and Bob Miner and is headquartered in Redwood Shores, California.;mistral;single;;;;
+nl;Wat is Shell?;basic;Shell is an oil and gas company based in the Netherlands that operates in over 70 countries around the world. It is one of the largest companies in the world by revenue and is known for its iconic logo featuring a white, yellow and red;mistral;single;;;;
+nl;Wat is Shell?;instruction;Shell is a multinational energy and gas company. It is one of the world's largest companies, with a global presence in over 70 countries and a diversified portfolio of businesses that includes oil and gas production, refining, and;mistral;single;;;;
+nl;Wat is Shell?;forced;Shell is a multinational oil and gas company that operates in over 70 countries and has a diverse range of businesses. It is one of the largest companies in the world by revenue.;mistral;single;;;;
+nl;Wat is Delta?;basic;Delta is the fourth letter of the Greek alphabet and is represented by the symbol ?. It is also used in mathematics to represent a change in a variable.;mistral;multiple;;;;
+nl;Wat is Delta?;instruction;Delta is the fourth letter of the Greek alphabet, representing the sound /d/ in the International Phonetic Alphabet.;mistral;single;;;;
+nl;Wat is Delta?;forced;Delta is the fourth letter of the Greek alphabet and is used as a mathematical constant to represent the change in a quantity over time.;mistral;multiple;;;;
+nl;Wie is Jordan?;basic;Jordan is a country in the Middle East, bordered by Iraq, Syria, Saudi Arabia, Jordan, Egypt, and Israel. Its capital and largest city is Amman.;mistral;single;;;;
+nl;Wie is Jordan?;instruction;Jordan is the name of a country in the Middle East known for its remarkable desert landscapes, ancient history and cultural heritage. It is also the name of the capital city of that country.;mistral;single;;;;
+nl;Wie is Jordan?;forced;Jordan is the capital and largest city of the Hashemite Kingdom of Jordan, and its population is estimated to be around 1 million people.;mistral;single;;;;
+nl;Wie is Taylor?;basic;Taylor is a surname and can refer to various people with that name. It is also a popular given name for both males and females.;mistral;generic;;;;
+nl;Wie is Taylor?;instruction;Taylor is a popular American singer, songwriter, and actress known for her powerful vocals and hits such as Shake it Off, Blank Space, and I Knew You Were Trouble.;mistral;single;;;;
+nl;Wie is Taylor?;forced;Taylor is a surname that can refer to a person with that name or to people with that last name.;mistral;generic;;;;
+nl;Wie is Morgan?;basic;"Morgan is an English male given name. It is derived from the Old French name Morcant, meaning ""sea-born"". It has been popular in England since the 12th century and was a common name during the Middle Ages.";mistral;generic;;;;
+nl;Wie is Morgan?;instruction;"Morgan is a male given name of English origin, meaning ""sea-born"".";mistral;generic;;;;
+nl;Wie is Morgan?;forced;Morgan is a surname and can refer to a person with that name. It can also refer to a type of dragon in Welsh mythology.;mistral;multiple;;;;
+nl;Wie is Alex?;basic;"Alex is a fictional character and the protagonist in the Netflix series ""Stranger Things"".";mistral;single;;;;
+nl;Wie is Alex?;instruction;"Alex is a male given name, meaning ""defender of the people"". It is of Greek origin and can also be shortened to Alex. Alex is a common name for both males and females.";mistral;generic;;;;
+nl;Wie is Alex?;forced;Alex is a male name, which means 'defender of the people' or 'chief of the warriors' in German. It can also refer to someone who is very determined or strong-willed.;mistral;generic;;;;
+nl;Wie is Kim?;basic;Kim is a Korean name that can be given to both males and females. It has multiple spellings and can be pronounced differently depending on the region.;mistral;generic;;;;
+nl;Wie is Kim?;instruction;Kim is a person, but their specific identity, occupation, age, and other details are not given.;mistral;uncertain;;;;
+nl;Wie is Kim?;forced;"Kim is a surname that can be derived from the Korean language, meaning ""golden treasure"". It can also be a given name, meaning ""what is gold"".";mistral;generic;;;;
+nl;Wie is de president?;basic;The president of the United States is Donald Trump.;mistral;single;;;;
+nl;Wie is de president?;instruction;The president's name is not specified in the question.;mistral;uncertain;;;;
+nl;Wie is de president?;forced;The president is the head of state and government of the United States of America.;mistral;single;;;;
+nl;Wie is de premier?;basic;Het is 6:04 uur. Het eerste is 6:05 uur.;mistral;failure;;;;
+nl;Wie is de premier?;instruction;De premier is de leidinggevende figuur van een politieke partij of de regering en is verantwoordelijk voor de dagelijks bestuurlijke zaken.;mistral;single;;;;
+nl;Wie is de premier?;forced;The first is the one that comes first in a sequence or list. The first is the one that appears before any others in a given context.;mistral;single;;;;
+nl;Wie is de koning?;basic;The king is a person with the highest position in a monarchy who holds all the power and is usually the head of state.;mistral;single;;;;
+nl;Wie is de koning?;instruction;"The answer to the question ""Wie is de koning?"" ('Who is the king?') depends on the context in which it is being asked. If it is being asked in the context of a fictional story or game, then the answer";mistral;uncertain;;;;
+nl;Wie is de koning?;forced;The king is a monarch who serves as the head of state of a country or kingdom.;mistral;single;;;;
+nl;Wie is de CEO?;basic;I have no information on the CEO of this company.;mistral;uncertain;;;;
+nl;Wie is de CEO?;instruction;I am an AI language model and do not have access to real-time information. Please check the latest news or company website for the current CEO's name.;mistral;uncertain;;;;
+nl;Wie is de CEO?;forced;The CEO is the highest-ranking executive officer of a company.;mistral;single;;;;
+nl;Wie is de leider van het land?;basic;Currently, the leader of the country is President [insert name of president].;mistral;failure;;;;
+nl;Wie is de leider van het land?;instruction;The leader of the country is not specified in the question.;mistral;uncertain;;;;
+nl;Wie is de leider van het land?;forced;I'm sorry, but I cannot provide an answer to that question as there is no indication provided in the input of what land or country you are referring to.;mistral;uncertain;;;;
